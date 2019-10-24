@@ -17,7 +17,7 @@ Summary: Graph Neural Network possess prospect in track reconstruction for the L
 
 Summary: In this project, different techniques of Person Re-Identification algorithms are being analysed to improve different aspects of Person Re-Identification.
 
-**First Graduate Thesis: “Area-Efficient FPGA Realization of Edge Detectors by Varying Sample-Widths and Gradient Operators and Utilizing Software-Hardware Co-Design” **
+**First Graduate Thesis: “Area-Efficient FPGA Realization of Edge Detectors by Varying Sample-Widths and Gradient Operators and Utilizing Software-Hardware Co-Design”**
 
 Summary: In this project, most of the edge detectors are implemented on Xilinx Spartan 6 FPGA for analytical study. Based on the analysis, both area-efficient and high quality edge detectors were designed and implemented. And so far, this research work has been published in reputed journal such as The AIUB Journal of Science and Technology (AJSE), International Journal of Computer Applications (IJCA) and STM Journals.   
 
