@@ -1,0 +1,72 @@
+I"�<table>
+  <tbody>
+    <tr>
+      <td><a href="./">Home</a></td>
+      <td><a href="./education.html">Education</a></td>
+      <td> </td>
+      <td><a href="./experience.html">Work</a></td>
+      <td> </td>
+      <td><a href="./projects.html">Research</a></td>
+      <td> </td>
+      <td><a href="./volunteering.html">Volunteering</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="education">Education</h1>
+
+<p><a href="https://www.aiub.edu">
+  <img src="/assets/img/AIUB_whole_logo.png" alt="AIUB" />
+</a>
+<a href="http://ipcv.eu">
+  <img src="/assets/img/ipcv_logo.png" alt="IPCV" />
+</a>
+<a href="http://ppke.hu/en/">
+  <img src="/assets/img/PPCU.png" alt="PPCU" />
+</a>
+<a href="http://www.uam.es/">
+  <img src="/assets/img/uam.png" alt="UAM" />
+</a>
+<a href="https://www.u-bordeaux.com/">
+  <img src="/assets/img/ub.png" alt="UB" />
+</a></p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>January, 2018 – August, 2020 (Ongoing)
+
+Erasmus+ Mundus Joint Master’s on 
+Image Processing and Computer Vision (IPCV)
+Université de Bordeaux, Bordeaux, France 
+Universidad Autónoma de Madrid, Madrid, Spain
+Pázmány Péter Katolikus Egyetem, Budapest, Hungary
+
+Major Courses:
+▪ Data Mining &amp; Machine Learning
+▪ Vision for Multiple and Moving Cameras
+▪ Applied Video Sequence Analysis
+▪ Deep Learning for Computer Vision
+▪ Augmented and Virtual Reality
+</code></pre></div></div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>January, 2014 – August, 2015
+
+MSc. in Electrical &amp; Electronic Engineering
+American International University-Bangladesh (AIUB)
+Dhaka, Bangladesh
+
+Major Courses:
+▪ Processor and DSP Hardware Design with 
+SystemVerilog, VHDL and FPGAs
+▪ Microelectronics and VLSI Design
+</code></pre></div></div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>September, 2009 –  August, 2013
+
+BSc. in Electrical &amp; Electronic Engineering
+American International University-Bangladesh (AIUB)
+Dhaka, Bangladesh
+
+Major Courses:
+▪ VHDL Modelling and Logic Synthesis
+▪ Microprocessor &amp; I/O Systems
+▪ Object Oriented Programming (C++, C#)
+▪ VLSI Circuit Designing 
+</code></pre></div></div>
+<p><a href="./">Home</a></p>
+:ET
