@@ -5,8 +5,8 @@ layout: default
 
 # Projects and Thesis
 <center>AVSA: Object Detection and Classification Project
-<img src="/assets/img/avsa1.png" alt="AVSA 1">
-<img src="/assets/img/avsa2.png" alt="AVSA 2">
+<img src="/assets/img/avsa11.png" alt="AVSA 1">
+<img src="/assets/img/avsa12.png" alt="AVSA 2">
 </center>
 **Summer Internship Project:
 “Graph Neural Network (GNN) Inference on FPGAs”.** 
