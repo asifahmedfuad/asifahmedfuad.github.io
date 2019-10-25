@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./)|[Education](./education.html) || [Work](./experience.html) || [Research](./projects.html) || [Volunteering](./volunteering.html)
+[Home](./)|[Education](./education.html) || [Work](./experience.html) || [Research](./projects.html) || [Publications](./publications.html)|| [Volunteering](./volunteering.html)
 
 # Education
 

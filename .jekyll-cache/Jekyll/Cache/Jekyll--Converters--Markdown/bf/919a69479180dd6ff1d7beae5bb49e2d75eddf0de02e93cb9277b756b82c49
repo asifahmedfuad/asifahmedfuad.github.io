@@ -1,4 +1,4 @@
-I"�<table>
+I"<table>
   <tbody>
     <tr>
       <td><a href="./">Home</a></td>
@@ -7,6 +7,8 @@
       <td><a href="./experience.html">Work</a></td>
       <td> </td>
       <td><a href="./projects.html">Research</a></td>
+      <td> </td>
+      <td><a href="./publications.html">Publications</a></td>
       <td> </td>
       <td><a href="./volunteering.html">Volunteering</a></td>
     </tr>
