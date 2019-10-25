@@ -1,6 +1,6 @@
 title: Kazi Ahmed Asif Fuad (Pollen)
 logo: /assets/img/logo.png
-description: Mail@ asif.ahmed.fuad@gmail.com
+description: <a href="mailto:asif.ahmed.fuad@gmail.com">asif.ahmed.fuad@gmail.com</a> Mail@ 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
