@@ -22,7 +22,7 @@ layout: default
   <img src="/assets/img/ub.png" alt="UB">
 </a>
 ```
-January, 2018 – August, 2020 (Ongoing)
+January, 2018 – August, 2020 
 
 Erasmus+ Mundus Joint Master’s on 
 Image Processing and Computer Vision (IPCV)

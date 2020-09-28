@@ -11,7 +11,9 @@ A Teacher, An AI Enthuasist.
 ```
 Experience
 ```
-> Student, Erasmus+ Mundus Joint Master Image Pocessing & Computer Vision 
+> Master Thesis Intern, Laboratoire Bordelais de Recherche en Informatique (LaBRI)
+
+> Graduate, Erasmus+ Mundus Joint Master Image Pocessing & Computer Vision 
 > Université de Bordeaux, Bordeaux, France 
 Universidad Autónoma de Madrid, Madrid, Spain
 Pázmány Péter Katolikus Egyetem, Budapest, Hungary

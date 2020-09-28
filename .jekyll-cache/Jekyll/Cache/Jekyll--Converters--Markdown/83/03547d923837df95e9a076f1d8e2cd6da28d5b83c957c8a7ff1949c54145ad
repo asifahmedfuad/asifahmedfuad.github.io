@@ -1,0 +1,51 @@
+I"<table>
+  <tbody>
+    <tr>
+      <td><a href="./">Home</a></td>
+      <td><a href="./education.html">Education</a></td>
+      <td> </td>
+      <td><a href="./experience.html">Work</a></td>
+      <td> </td>
+      <td><a href="./projects.html">Research</a></td>
+      <td> </td>
+      <td><a href="./publications.html">Publications</a></td>
+      <td> </td>
+      <td><a href="./volunteering.html">Volunteering</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="projects-and-thesis">Projects and Thesis</h1>
+<center>AVSA: Object Detection and Classification Project
+<img src="/assets/img/avsa11.png" alt="AVSA 1" />
+<img src="/assets/img/avsa12.png" alt="AVSA 2" />
+</center>
+
+<p><strong>IPCV Master Thesis: “Recognition of Sports Gestures with 3D Deep CNNs: Explanation of Networks”</strong> 
+Summary: In this project, different techniques of Person Re-Identification algorithms are being analysed to improve different aspects of Person Re-Identification.</p>
+
+<p><strong>IPCV Master: Tutored Research Development Project (ongoing): “Multi-Camera Object Detection and Association”</strong></p>
+
+<p>Summary: In this project, different techniques of Person Re-Identification algorithms are being analysed to improve different aspects of Person Re-Identification.</p>
+
+<p><strong>First Graduate Thesis: “Area-Efficient FPGA Realization of Edge Detectors by Varying Sample-Widths and Gradient Operators and Utilizing Software-Hardware Co-Design”</strong></p>
+
+<p>Summary: In this project, most of the edge detectors are implemented on Xilinx Spartan 6 FPGA for analytical study. Based on the analysis, both area-efficient and high quality edge detectors were designed and implemented. And so far, this research work has been published in reputed journal such as The AIUB Journal of Science and Technology (AJSE), International Journal of Computer Applications (IJCA) and STM Journals.</p>
+
+<p><strong>Undergraduate Project: “Designing and Implementation of Centralized Load Controlled Automated Power System Network-CLCAPSN”</strong></p>
+
+<p>Summary: CLSAPSN is capable of minimizing load shedding &amp; optimization of power in a combination of Embedded System and Power Circuit. In IEEE WIECON-ECE 2015 conference, a research paper from this work has been published.</p>
+
+<p><strong>Summer Internship Project:
+“Graph Neural Network (GNN) Inference on FPGAs”.</strong></p>
+
+<p>Summary: Graph Neural Network possess prospect in track reconstruction for the Large Hadron Collider use-case due to high dimensional and sparse data. Field Programmable Gate Arrays (FPGAs) have the potential to speedup inference of machine learning algorithms compared to GPUs as they support pipeline operation. In our research, we have used hls4ml, a machine learning inference package for FPGAs and we have evaluated different approaches: Pipeline, Dataflow and Dataflow with pipeline blocks architectures. Results show that Pipeline architecture is the fastest but it has disadvantages such as large loop unrolling and non-functioning reuse factor. Our solution of large loop unrolling takes more than 100 hours to complete synthesis of Hardware architecture from High Level Synthesis(HLS) C++ code. On the other hand, our implementation of the system in Dataflow architecture is too slow but it does not solve large synthesis time. So we proposed an improvised Dataflow architecture where some of the building blocks are in pipeline architecture. We have found prominent results from this architecture but we have not solved the large synthesis time problem.</p>
+
+<p><strong>Other Projects:</strong></p>
+
+<p>▪	FPGA &amp; Microcontroller based Data Acquisition System using Two-Wire Serial communication. -Using Spartan 6 FPGA.</p>
+
+<p>▪	Design &amp; Simulation of Dual-Axis Solar Tracker Using Microcontroller &amp; RTC Chip.</p>
+
+<p><a href="./">Home</a></p>
+:ET

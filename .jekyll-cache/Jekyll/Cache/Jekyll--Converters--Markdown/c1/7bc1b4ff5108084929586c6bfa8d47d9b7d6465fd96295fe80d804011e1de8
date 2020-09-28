@@ -1,0 +1,133 @@
+I"f<table>
+  <tbody>
+    <tr>
+      <td><a href="./">Home</a></td>
+      <td><a href="./education.html">Education</a></td>
+      <td> </td>
+      <td><a href="./experience.html">Work</a></td>
+      <td> </td>
+      <td><a href="./projects.html">Research</a></td>
+      <td> </td>
+      <td><a href="./publications.html">Publications</a></td>
+      <td> </td>
+      <td><a href="./volunteering.html">Volunteering</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>I am <strong>Kazi Ahmed Asif Fuad</strong> (<em>Pollen</em>), A Bangladeshi</p>
+
+<p>A Teacher, An AI Enthuasist.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Experience
+</code></pre></div></div>
+<blockquote>
+  <p>Graduate, Erasmus+ Mundus Joint Master Image Pocessing &amp; Computer Vision 
+Université de Bordeaux, Bordeaux, France 
+Universidad Autónoma de Madrid, Madrid, Spain
+Pázmány Péter Katolikus Egyetem, Budapest, Hungary</p>
+</blockquote>
+
+<blockquote>
+  <p>Openlab Summer Student, European Organisation for Nuclear Research (CERN)</p>
+</blockquote>
+
+<blockquote>
+  <p>Lecturer, Faculty of Engineering, American International University-Bangladesh (AIUB)</p>
+</blockquote>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Expertise
+</code></pre></div></div>
+
+<center>
+<img src="/assets/img/cv.jpg" alt="Computer Vision" />
+<img src="/assets/img/DL.jpg" alt="Deep Learning" /> <img src="/assets/img/tf.png" alt="TensorFlow" /> <img src="/assets/img/keras.jpg" alt="Keras" /> 
+<img src="/assets/img/pytorch.jpg" alt="PyTorch" /> <img src="/assets/img/C++.png" alt="C++" /> 
+<img src="/assets/img/python.png" alt="Python" /> <img src="/assets/img/Cs.png" alt="C#" />
+<img src="/assets/img/unity3d.jpg" alt="Unity 3D" /> <img src="/assets/img/vs.png" alt="Visual Studio" />
+<img src="/assets/img/vivado.jpg" alt="Vivado HLS" /> <img src="/assets/img/sv.jpg" alt="SystemVerilog" />
+<img src="/assets/img/vhdl.jpg" alt="VHDL" />
+</center>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Field of Interest</th>
+      <th style="text-align: left">Programming Languages</th>
+      <th style="text-align: left">Tool</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Artificial Intelligence</td>
+      <td style="text-align: left">C</td>
+      <td style="text-align: left">Microsoft Visual Studio</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Computer Vision</td>
+      <td style="text-align: left">C++</td>
+      <td style="text-align: left">Anaconda</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Machine Learning</td>
+      <td style="text-align: left">Python</td>
+      <td style="text-align: left">QT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Deep Learning</td>
+      <td style="text-align: left">C#</td>
+      <td style="text-align: left">Eclipse</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Digital System Designing</td>
+      <td style="text-align: left">OpenCV</td>
+      <td style="text-align: left">MATLAB &amp; Simulink</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Augmented Reality</td>
+      <td style="text-align: left">VHDL,SystemVerilog</td>
+      <td style="text-align: left">Cadence Virtuoso</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Virtual Reality</td>
+      <td style="text-align: left">High Level Synthesis</td>
+      <td style="text-align: left">Aldec Active HDL</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Mixed Reality</td>
+      <td style="text-align: left">HTML, CSS, Javascript</td>
+      <td style="text-align: left">Vivado, Vivado HLS</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Deep Learning Library Package
+</code></pre></div></div>
+
+<table>
+  <tbody>
+    <tr>
+      <td>TensorFlow 2.0</td>
+      <td>Keras</td>
+      <td>PyTorch</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/asif-fuad/">Linkedin</a></td>
+      <td> </td>
+      <td><a href="https://github.com/asifahmedfuad/">gitHub</a></td>
+      <td> </td>
+      <td><a href="https://www.facebook.com/pollenaif">Facebook</a></td>
+      <td> </td>
+      <td><a href="https://www.twitter.com/pollenaif">Twitter</a></td>
+      <td> </td>
+      <td><a href="https://www.instagram.com/pollenaif">Instagram</a></td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

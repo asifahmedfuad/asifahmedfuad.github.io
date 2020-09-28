@@ -23,6 +23,7 @@ layout: default
 > [C2] T. Sanjana, K. A. A. Fuad, M. M. Habib and A. A. Rumel, ""Automated anti-collision system for automobiles,"" 2017 International Conference on Electrical, Computer and Communication Engineering (ECCE), Cox's Bazar, 2017, pp. 866-870. 
 >
 > [C3] MS Mahamud, M Islam, AS Shila, KAA Fuad, MR Islam, "Watch IT Version-II: An Assistive Device for Hearing and Speaking Impaired", Proceedings of SAI Intelligent Systems Conference, 253-264
-
+>
+> [C4] Kazi Ahmed Asif Fuad, Pierre-Etienne Martin, Romain Giot, Romain Bourqui, Jenny Benois-Pineau, Akka Zemmari (2020) Features Understanding in 3D CNNs for Actions Recognition in Video. International Conference on Image Processing Theory, Tools and Applications(IPTA) 2020, Paris, France [Accepted]
 
 [Home](./)
