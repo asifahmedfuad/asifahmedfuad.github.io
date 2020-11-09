@@ -62,7 +62,7 @@ Master Thesis Topic: **Recognition of Sports Gestures with 3D Deep CNNs: Explana
 
 Supervised by: [Professor Jenny Benois-Pineau](https://www.labri.fr/projet/AIV/jennybenoispineauen.php "Profile").
 <center>
-  <img src="/images/projects/ipcv_thesis.png" alt="IPCV_thesis">
+  <img src="/images/icons/ipcv_thesis.png" alt="IPCV_thesis">
 </center>
 
 *Abstract*:  Human Action Recognition is one of the key tasks in video understanding. Deep Convolutional Neural Networks (CNN) are often used to tackle this issue. Although they usually perform
@@ -90,7 +90,7 @@ Master Thesis Topic: **Area-Efficient FPGA realization of Edge Detectors by vary
 Supervised by: Associate Professor Shahriyar Masud Rizvi.
 
 <center>
-  <img src="/images/projects/msc_thesis.png" alt="msc_thesis">
+  <img src="/images/icons/msc_thesis.png" alt="msc_thesis">
 </center>
 *Abstract*: This thesis presents a comprehensive comparative study of edge detection techniques and proposes a ovel area-efficient edge detection method for gradient based edge detector such as Sobel-Fieldman
 algorithm by manipulating input sample widths and, in case of Canny edge detector, manipulating gradient operators. After varying sample-widths we find that some smaller sample widths generate images
@@ -104,7 +104,7 @@ Bachelor Thesis Topic: **Design and Implementation of Centralized Load Controlle
 
 Supervised by: Ms. Laila Nawsheen Manzoor.
 <center>
-  <img src="/images/projects/bsc_thesis.png" alt="msc_thesis">
+  <img src="/images/icons/bsc_thesis.png" alt="msc_thesis">
 </center>
 *Abstract*: We are living in the age where technology is not the major attraction, what level of smart and intelligent the technology is. Power system network is advancing up its way along the smart grid but load end
 information can make system more efficient. In our project & thesis, we have tried to implement a power system wirelessly connected to the load end side for data transfer about load status.
