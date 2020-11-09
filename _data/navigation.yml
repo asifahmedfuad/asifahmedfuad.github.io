@@ -1,0 +1,20 @@
+# main links links
+main:
+  - title: "Education"
+    url: /educations/
+      
+  - title: "Research"
+    url: /research/
+
+  - title: "Experience"
+    url: /experience/    
+  
+  - title: "Teaching"
+    url: /teaching/
+  
+  - title: "Volunteering"
+    url: /volunteering/
+    
+  - title: "CV"
+    url: /files/Kazi_Ahmed_Asif_Fuad_1P.pdf
+    
