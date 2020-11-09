@@ -61,6 +61,7 @@ author_profile: true
 Master Thesis Topic: **Recognition of Sports Gestures with 3D Deep CNNs: Explanation of Networks** 
 
 Supervised by: [Professor Jenny Benois-Pineau](https://www.labri.fr/projet/AIV/jennybenoispineauen.php "Profile").
+
 <center>
   <img src="/images/icons/ipcv_thesis.png" alt="IPCV_thesis">
 </center>
@@ -92,6 +93,7 @@ Supervised by: Associate Professor Shahriyar Masud Rizvi.
 <center>
   <img src="/images/icons/msc_thesis.png" alt="msc_thesis">
 </center>
+
 *Abstract*: This thesis presents a comprehensive comparative study of edge detection techniques and proposes a ovel area-efficient edge detection method for gradient based edge detector such as Sobel-Fieldman
 algorithm by manipulating input sample widths and, in case of Canny edge detector, manipulating gradient operators. After varying sample-widths we find that some smaller sample widths generate images
 of a quality that is identical to ones attained from standard sample-width (16:14) but with sufficiently lesser FPGA resources. The sample-width of (6:4) generates images of quality attained in standard
@@ -103,9 +105,11 @@ realized in hardware Spartan-6 LX16 FPGAs from Xilinx utilizing Simulink (from M
 Bachelor Thesis Topic: **Design and Implementation of Centralized Load Controlled Automated Power System Network (CLCAPSN)** 
 
 Supervised by: Ms. Laila Nawsheen Manzoor.
+
 <center>
   <img src="/images/icons/bsc_thesis.png" alt="msc_thesis">
 </center>
+
 *Abstract*: We are living in the age where technology is not the major attraction, what level of smart and intelligent the technology is. Power system network is advancing up its way along the smart grid but load end
 information can make system more efficient. In our project & thesis, we have tried to implement a power system wirelessly connected to the load end side for data transfer about load status.
 In our project we have tried to bring out the fact “Power Crisis” can be minimized and “Power utilization” can be optimized through monitoring it. To do this we combined embedded system with power circuits.
