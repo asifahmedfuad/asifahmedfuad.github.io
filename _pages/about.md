@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Kazi Ahmed Asif Fuad is a Lecturer at American International University-Bangladesh (AIUB). He graduated from the Erasmus+ Joint Master in Image Processing and Computer Vision in 2020 and he earned his Master of Science degree and Bachelor of Science degree in Electrical and Electronic Engineering at American International University-Bangladesh (AIUB). He is a recipient of the “Summa Cum Laude” distinction and academic honor at the 16th Convocation Ceremony of AIUB, “Vice Chancellor's Best Thesis”(Gold Medal) for his final-year graduate and undergraduate research project, the European Union: Erasmus+ Grant. 
-His past affiliations include IEEE Bangladesh Section, IEEE Young Professionals Bangladesh, AIUB Community of Engineering Students (ACES) Research Group and IEEE AIUB Student Branch.
+Kazi Ahmed Asif Fuad, a AI and Embedded System Designer, is working as Lecturer at American International University-Bangladesh (AIUB) since 2016. 
+Recently, he graduated from the Erasmus+ Joint Master in Image Processing and Computer Vision (IPCV), a triple Masters Program, with Erasmus+ Mundus Scholarship. 
+Before that, he earned his Master of Science (MSc.) degree and Bachelor of Science (BSc.) degree in Electrical and Electronic Engineering at American International University-Bangladesh (AIUB) in 2014 and 2016 respectively. 
+He is a recipient of the “Summa Cum Laude” distinction, the Highest academic honor at the 16th Convocation Ceremony of AIUB. He has been awarded “Vice Chancellor's Best Thesis” (Gold Medal) for both of his final-year graduate and undergraduate research projects.  
+His volunteering affiliations include IEEE Bangladesh Section, IEEE Young Professionals Bangladesh, AIUB Community of Engineering Students (ACES) Research Group, IEEE AIUB Student Branch and Erasmus Mundus Association. 
+Currently, he is looking for PhD in the field of Artifical Intelligence with Hardware Acceleration and Quantum Computing.  
+
 
 Research Interest
 ----
@@ -70,15 +75,15 @@ Honors and Awards
   * “Vice-Chancellor’s Best Thesis Award” for MSc. Thesis among all the Master Theses from Engineering Faculty in the Convocation Year-2016.
   * Academic Scholarship from Dhaka Board for Excellent result in Secondary School Certificate (SSC) Examination 2007. 
   
-Contacts
+Contact
 -----
   
 **Kazi Ahmed Asif Fuad**\
 Lecturer, Dept. of EEE,\
 Faculty of Engineering,\
 American International University-Bangladesh(AIUB)\
-408/1, Kuratoli, Khilkhet, Dhaka 1229, Bangladesh.
-Email: asif.fuad@aiub.edu; asif.ahmed.fuad@gmail.com 
+408/1, Kuratoli, Khilkhet, Dhaka 1229, Bangladesh.\
+Email: *asif.fuad@aiub.edu; asif.ahmed.fuad@gmail.com* 
 
 <br />
 
