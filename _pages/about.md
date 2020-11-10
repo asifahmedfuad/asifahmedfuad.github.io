@@ -12,9 +12,12 @@ Kazi Ahmed Asif Fuad is a Lecturer at American International University-Banglade
 His past affiliations include IEEE Bangladesh Section, IEEE Young Professionals Bangladesh, AIUB Community of Engineering Students (ACES) Research Group and IEEE AIUB Student Branch.
 
 Research Interest
-======
- **Artificial Intelligence (AI)**, **Machine Learning**, **Digital System Designing**, **Deep Learning**, 
- **Computer Vision**, **Explainable AI**, **High Level Synthesis(HLS)**
+----
+<center>
+<img src="/images/icons/ai.PNG" alt="Artificial Intelligence (AI)"> <img src="/images/icons/dsd.PNG" alt="Digital System Designing"> <img src="/images/icons/dl.PNG" alt="Deep Learning"> 
+<img src="/images/icons/ml.PNG" alt="Machine Learning"> <img src="/images/icons/xai.PNG" alt=" Explainable AI (AI)">  <img src="/images/icons/cv.PNG" alt="Computer Vision">
+<img src="/images/icons/hls.PNG" alt="High Level Synthesis">
+</center>
 
 Experience
 ------

@@ -13,6 +13,7 @@ author_profile: true
 
 
 ## Taught Courses as Lecturer
+----
 
 | **Theory** | **Labs** | 
 |:-------------|:------------------|
@@ -24,6 +25,7 @@ author_profile: true
 |  **Digital Logic Design** | |
 
 ## Supervised Project and Thesis as Lecturer
+----
 
 [Fall 2017] **Design and Implementation of an Assistive Device for Hearing and Speech Impaired people.**\
 Md. Sadad Mahamud, Munjarin Islam, Aysha Siddeka Shila and Md. Rakibul Islam
@@ -36,6 +38,7 @@ Md. Nasir Uddin, Karabi Roy, Kazi Khurshid Alam and Arinta Farzana Ava
 
 
 ## Taught Laboratories as Teaching Assistant
+----
 
 Digital Design with SystemVerilog, VHDL & FPGAs Lab\
 VLSI Circuit Design\

@@ -35,6 +35,8 @@ Semester one of IPCV, from August, 2018 to January, 2019
   * Basic Image Processing Algorithms
   * Biomedical Signal Processing
   * High-level Synthesis Methods on FPGAs
+
+----
   
 ### Universidad Autónoma de Madrid (UAM), Madrid, Spain
 >*Erasmus Mundus Joint Master Degree in Image Processing and Computer Vision*
@@ -46,7 +48,8 @@ Semester two of IPCV, from January, 2019 to June, 2019
   * Applied Video Sequence Analysis
   * People Detection and Biometric Recognition
 
-
+----
+ 
 ### Université de Bordeaux (UBx), Bordeaux, France
 >*Master Degree in “Informatique”, Image Processing and Computer Vision* 
 
@@ -56,8 +59,10 @@ Semester three of IPCV, from September, 2019 to January 2020
   * Deep Learning for Computer Vision
   * Augmented and Virtual Reality 
   * Variational Methods and PDEs and Optimisation for Image Processing
-  
-  
+
+----
+
+
 ### Laboratoire Bordelais de Recherche en Informatique (LaBRI), Université de Bordeaux (UBx), Bordeaux, France
 >*Master Thesis* 
 
@@ -68,6 +73,8 @@ Master Thesis Topic: **Recognition of Sports Gestures with 3D Deep CNNs: Explana
 Supervised by: [Professor Jenny Benois-Pineau](https://www.labri.fr/projet/AIV/jennybenoispineauen.php "Profile").
 
 
+# ---------------------------------------------------------------------------------------------------------
+  
 
 ## Master of Science in Electrical and Electronic Engineering 
 Total Credits: 36
@@ -89,6 +96,8 @@ Master Thesis Topic: **Area-Efficient FPGA realization of Edge Detectors by vary
 
 Supervised by: Associate Professor Shahriyar Masud Rizvi.
 
+# ---------------------------------------------------------------------------------------------------------
+ 
 ## Bachelor of Science in Electrical and Electronic Engineering 
 Total Credits: 36
 ### American International University-Bangladesh, Dhaka, Bangladesh
@@ -115,13 +124,16 @@ Bachelor Thesis Topic: **Design and Implementation of Centralized Load Controlle
 
 Supervised by: Ms. Laila Nawsheen Manzoor.
 
-
+# ---------------------------------------------------------------------------------------------------------
+ 
 
 ## Higher Secondary School Certificate (HSC) Examination 
 
 ### Dhaka College, Dhaka, Bangladesh
 > Group: Science
 
+# ---------------------------------------------------------------------------------------------------------
+ 
 ## Secondary School Certificate (SSC) Examination
 
 ### Ideal School and College, Motijheel, Dhaka, Bangladesh
