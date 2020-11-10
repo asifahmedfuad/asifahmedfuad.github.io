@@ -64,8 +64,24 @@ Expertise
 
 Honors and Awards
 -----
-  * Erasmus Mundus Joint Master (EMJMD) scholarship for Master in Image Processing and Computer Vision (IPCV), covering full tuition fees and a monthly stipend (42,000 EUR).
-  * Highest Academic Honor, Summa Cum Laude, for graduating with a CGPA of 4.00 in Master of Science in Electrical and Electronic Engineering, American International University-Bangladesh.
+  * Erasmus Mundus Joint Master (EMJMD) scholarship for Master in Image Processing and Computer Vision (IPCV), covering full tuition fees and a monthly stipend (Total 42,000 EUR).
+  * Highest Academic Honor, Summa Cum Laude, for graduating with a CGPA of 4.00 (in a scale of 4.00) in Master of Science in Electrical and Electronic Engineering, American International University-Bangladesh.
   * “Vice-Chancellor’s Best Thesis Award” for BSc. Project and Thesis among 160 Projects and Theses in the Convocation Year-2014. 
-  * “Vice-Chancellor’s Best Thesis Award” for MSc. Thesis among all the Master Theses in the Convocation Year-2016.
+  * “Vice-Chancellor’s Best Thesis Award” for MSc. Thesis among all the Master Theses from Engineering Faculty in the Convocation Year-2016.
   * Academic Scholarship from Dhaka Board for Excellent result in Secondary School Certificate (SSC) Examination 2007. 
+  
+Contacts
+-----
+  
+**Kazi Ahmed Asif Fuad**\
+Lecturer, Dept. of EEE,\
+Faculty of Engineering,\
+American International University-Bangladesh(AIUB)\
+408/1, Kuratoli, Khilkhet, Dhaka 1229, Bangladesh.
+Email: asif.fuad@aiub.edu; asif.ahmed.fuad@gmail.com 
+
+<br />
+
+*The profile photo that I use everywhere, is captured by [Md. Jubaear Alam](https://www.facebook.com/jubaearshahrukh).* 
+
+  

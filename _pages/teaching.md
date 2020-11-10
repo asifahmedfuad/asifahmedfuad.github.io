@@ -28,7 +28,7 @@ author_profile: true
 ----
 
 [Fall 2017] **Design and Implementation of an Assistive Device for Hearing and Speech Impaired people.**\
-Md. Sadad Mahamud, Munjarin Islam, Aysha Siddeka Shila and Md. Rakibul Islam
+*Md. Sadad Mahamud, Munjarin Islam, Aysha Siddeka Shila and Md. Rakibul Islam*
  
 [Spring 2018] **Design and Implementation of an Assistive Device for Vision Impaired people.**\
 Md. Kawsur Abeddin Noori, Sheikh Zarif Ahmed, Suprim Biswas and Mohammad Shamsul Arefin 
