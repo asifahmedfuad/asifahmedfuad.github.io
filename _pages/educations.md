@@ -96,7 +96,7 @@ Total Credits: 36
 
 From January, 2014 to August, 2015
 #### Major Courses:
-  * Selected Topics in Electrical and Electronic Engineering (Processor Designing)
+  * Selected Topics in Electrical and Electronic Engineering (Processor and DSP Hardware Design with SystemVerilog, VHDL and FPGAS)
   * Microelectronics and VLSI Design
   * Quantum Phenomena in Nanostructures
   * Digital Signal Processing and Filter Design

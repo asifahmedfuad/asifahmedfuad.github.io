@@ -37,11 +37,11 @@ author_profile: true
 
 ## Journal Publications
 ----
-  [J4] **Kazi Ahmed Asif Fuad**, Shahriyar Masud Rizvi, “Varying Sample-Width to Realize Area-Efficient FPGA Realization of Sobel-Fieldman Edge Detector”, AIUB Journal of Science and Engineering (AJSE) Vol. 14, No. 1, August 2015 (ISSN: 1608-3679). 
+  [J4](https://orp.aiub.edu/ajse-vol-14-no-1-august-2015 "AJSE") **Kazi Ahmed Asif Fuad**, Shahriyar Masud Rizvi, “Varying Sample-Width to Realize Area-Efficient FPGA Realization of Sobel-Fieldman Edge Detector”, AIUB Journal of Science and Engineering (AJSE) Vol. 14, No. 1, August 2015 (ISSN: 1608-3679). 
 		
-  [J3] **Kazi Ahmed Asif Fuad**, Shahriyar Masud Rizvi, “Hardware Software Co-Simulation of Canny Edge Detection Algorithm” International Journal of Computer Applications 122(19): 7-12, July 2015. 
+  [J3](https://www.ijcaonline.org/archives/volume122/number19/21806-5124 "IJCA") **Kazi Ahmed Asif Fuad**, Shahriyar Masud Rizvi, “Hardware Software Co-Simulation of Canny Edge Detection Algorithm” International Journal of Computer Applications 122(19): 7-12, July 2015. 
 		
-  [J2] **Kazi Ahmed Asif Fuad**, Shahriyar Masud Rizvi, “Hardware/Software Co-Simulation of Gradient-based Edge Detectors: A Comparative Study”, STM Journal of Image Processing and Pattern Recognition Progress (JoIPPRP), Vol. 2, No. 3, September, 2015 (ISSN: 2394-1995).
+  [J2](http://computers.stmjournals.com/index.php?journal=JoIPPRP&page=article&op=view&path%5B%5D=503) **Kazi Ahmed Asif Fuad**, Shahriyar Masud Rizvi, “Hardware/Software Co-Simulation of Gradient-based Edge Detectors: A Comparative Study”, STM Journal of Image Processing and Pattern Recognition Progress (JoIPPRP), Vol. 2, No. 3, September, 2015 (ISSN: 2394-1995).
 		
   [J1] Md. Maruf Ibne Hasan, **Kazi Ahmed Asif Fuad**, Nipu Rani Barai, Maroof Muhammad Hasan, Shahriyar Masud Rizvi, “FPGA and Microcontroller based Data Acquisition System using Two Wire Serial Communication” Journal of Embedded System and Applications, Vol. 2, No. 3, July 2014. 	 
 	
@@ -50,13 +50,13 @@ author_profile: true
 ## Conference Publications
 ----
 
-  [C4] **Kazi Ahmed Asif Fuad**, Pierre-Etienne Martin, Romain Giot, Romain Bourqui, Jenny Benois-Pineau, Akka Zemmari  (2020) Features Understanding in 3D CNNs for Actions Recognition in Video. International Conference on Image Processing Theory, Tools and Applications (IPTA) 2020, Paris, France [Accepted]. 
+  [C4](https://github.com/asifahmedfuad/feature_understanding_method "github") **Kazi Ahmed Asif Fuad**, Pierre-Etienne Martin, Romain Giot, Romain Bourqui, Jenny Benois-Pineau, Akka Zemmari  (2020) Features Understanding in 3D CNNs for Actions Recognition in Video. International Conference on Image Processing Theory, Tools and Applications (IPTA) 2020, Paris, France [Accepted]. 
 		
-  [C3] Mahamud M.S., Islam M., Shila A.S., **Asif Fuad K.A.**, Islam M.R. (2019) Watch IT Version-II: An Assistive Device for Hearing and Speaking Impaired. In: Arai K., Kapoor S., Bhatia R. (eds) Intelligent Systems and Applications. IntelliSys 2018. Advances in Intelligent Systems and Computing, vol 869. Springer, Cham.
+  [C3](https://link.springer.com/chapter/10.1007/978-3-030-01057-7_21 "watchit") Mahamud M.S., Islam M., Shila A.S., **Asif Fuad K.A.**, Islam M.R. (2019) Watch IT Version-II: An Assistive Device for Hearing and Speaking Impaired. In: Arai K., Kapoor S., Bhatia R. (eds) Intelligent Systems and Applications. IntelliSys 2018. Advances in Intelligent Systems and Computing, vol 869. Springer, Cham.
 		
-  [C2] Tasneem Sanjana, **Kazi Ahmed Asif Fuad**, Mehrab Masayeed Habib, Ahmed Amin Rumel, "Automated anti-collision system for automobiles" 2017 International Conference on Electrical, Computer and Communication Engineering (ECCE), Cox's Bazar, 2017, pp. 866-870. 
+  [C2](https://ieeexplore.ieee.org/document/7913024 "anticolliison") Tasneem Sanjana, **Kazi Ahmed Asif Fuad**, Mehrab Masayeed Habib, Ahmed Amin Rumel, "Automated anti-collision system for automobiles" 2017 International Conference on Electrical, Computer and Communication Engineering (ECCE), Cox's Bazar, 2017, pp. 866-870. 
 		
-  [C1] **Kazi Ahmed Asif Fuad**, Md. Maruf Ibne Hasan, Laila Nawsheen Manzoor, Mohammad Abdul Mannan, Chowdhury Akram Hossain, "Design and simulation of centralized load controlled automated power system network (CLCAPSN)" 2015 IEEE International WIE Conference on Electrical and Computer Engineering\ (WIECON-ECE), Dhaka, 2015, pp. 61-64. 
+  [C1](https://ieeexplore.ieee.org/document/7443999 "CLSAPSN") **Kazi Ahmed Asif Fuad**, Md. Maruf Ibne Hasan, Laila Nawsheen Manzoor, Mohammad Abdul Mannan, Chowdhury Akram Hossain, "Design and simulation of centralized load controlled automated power system network (CLCAPSN)" 2015 IEEE International WIE Conference on Electrical and Computer Engineering\ (WIECON-ECE), Dhaka, 2015, pp. 61-64. 
 		
 
 # Projects

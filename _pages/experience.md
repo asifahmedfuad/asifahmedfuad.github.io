@@ -20,13 +20,23 @@ author_profile: true
 # ---------------------------------------------------------------------------------------------------------
  
 
-### After, Study Leave, I have rejoined AIUB on October 11, 2020 and continuing as 
+### I have rejoined AIUB on October 11, 2020 after the Study Leave and am currently continuing as 
 
 > **Lecturer**,\
 Department of EEE, Faculty of Engineering,\
 American International University-Bangladesh (AIUB)\
 Dhaka, Bangladesh\
 <a href="https://www.aiub.edu"> www.aiub.edu</a>
+
+# ---------------------------------------------------------------------------------------------------------
+
+### September, 2020 – September, 2021
+
+> **Invited Researcher**,\
+Research on Explainable AI under the Supervision of [Professor Jenny Benois-Pineau](https://www.labri.fr/projet/AIV/jennybenoispineauen.php "Profile")\
+Laboratoire Bordelais de Recherche en Informatique(LaBRI)\
+Bordeaux, France\
+<a href="https://www.labri.fr"> www.labri.fr </a>
 
 # ---------------------------------------------------------------------------------------------------------
 

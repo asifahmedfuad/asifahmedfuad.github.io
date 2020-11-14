@@ -38,6 +38,33 @@ Supervising undergraduate students to participate in national and international 
 # Achievements 
 As a team, as a family, we have achieved these over the years...
 
+## 2018
+
+> IEEE AIUB Student Branch is the Second Runners Up of the IEEE Region 10 Website Contest 2018
+
+> IEEE AIUB Student Branch won the IEEE Region 10 SYWL Congress 2018 Info-Graphic Poster Presentation Competition
+
+> IEEE AIUB SB has achieved “Best Student Branch –Honorable Mention” award at IEEE Bangladesh Section Award Night and Annual Dinner 2018
+
+> IEEE AIUB SB secured the 1st runner-up position in the Infographic Poster Presentation Contest at IEEE BDS SYWMC 2018
+
+> IEEE AIUB Student Branch won the IEEE Bangladesh Section SYWM Congress 2018 Video Contest
+
+
+## 2017
+> IEEE AIUB Student Branch is the winner of the IEEE MGA Regional Exemplary Student Branch Award 2017
+
+> Anindo Saha, Former Vice Chair of IEEE AIUB Student Branch has been awarded the Larry K. Wilson Regional Student Activities Award 2017
+
+> IEEE AIUB Student Branch is the Champion of "The Inter IEEE Football Fiesta 2017" organized by IEEE NSU Student Branch
+
+> 1st place - Website Contest at IEEE Bangladesh Section SYW Congress 2017
+
+> Dr. M. Tanseer Ali, Counselor, IEEE AIUB Student Branch has won the IEEE Region 10 Outstanding Branch Counselor & Branch Chapter Advisor Award 2017
+
+> 1st place - Poster Presentation Contest at IEEE Bangladesh Section SYW Congress 2017
+
+
 ## 2016
 > 1st place - Outstanding New Chapter Award at IEEE Industry Applications Society (IA-S) Outstanding Chapter Award Contest 2016
 
@@ -60,28 +87,3 @@ As a team, as a family, we have achieved these over the years...
 > 1st place - Best Student Volunteer Award 2016 at IEEE Bangladesh Section Annual Dinner & Awards Ceremony
 
 > 1st place - Best Counselor Award 2016 at IEEE Bangladesh Section Annual Dinner & Awards Ceremony
-
-## 2017
-> IEEE AIUB Student Branch is the winner of the IEEE MGA Regional Exemplary Student Branch Award 2017
-
-> Anindo Saha, Former Vice Chair of IEEE AIUB Student Branch has been awarded the Larry K. Wilson Regional Student Activities Award 2017
-
-> IEEE AIUB Student Branch is the Champion of "The Inter IEEE Football Fiesta 2017" organized by IEEE NSU Student Branch
-
-> 1st place - Website Contest at IEEE Bangladesh Section SYW Congress 2017
-
-> Dr. M. Tanseer Ali, Counselor, IEEE AIUB Student Branch has won the IEEE Region 10 Outstanding Branch Counselor & Branch Chapter Advisor Award 2017
-
-> 1st place - Poster Presentation Contest at IEEE Bangladesh Section SYW Congress 2017
-
-## 2018
-
-> IEEE AIUB Student Branch is the Second Runners Up of the IEEE Region 10 Website Contest 2018
-
-> IEEE AIUB Student Branch won the IEEE Region 10 SYWL Congress 2018 Info-Graphic Poster Presentation Competition
-
-> IEEE AIUB SB has achieved “Best Student Branch –Honorable Mention” award at IEEE Bangladesh Section Award Night and Annual Dinner 2018
-
-> IEEE AIUB SB secured the 1st runner-up position in the Infographic Poster Presentation Contest at IEEE BDS SYWMC 2018
-
-> IEEE AIUB Student Branch won the IEEE Bangladesh Section SYWM Congress 2018 Video Contest
