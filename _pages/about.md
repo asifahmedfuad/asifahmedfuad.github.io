@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Kazi Ahmed Asif Fuad, a AI and Embedded System Designer, is working as Lecturer at American International University-Bangladesh (AIUB) since 2016. 
-Recently, he graduated from the Erasmus+ Joint Master in Image Processing and Computer Vision (IPCV), a triple Masters Program, with Erasmus+ Mundus Scholarship. 
-Before that, he earned his Master of Science (MSc.) degree and Bachelor of Science (BSc.) degree in Electrical and Electronic Engineering at American International University-Bangladesh (AIUB) in 2014 and 2016 respectively. 
-He is a recipient of the “Summa Cum Laude” distinction, the Highest academic honor at the 16th Convocation Ceremony of AIUB. He has been awarded “Vice Chancellor's Best Thesis” (Gold Medal) for both of his final-year graduate and undergraduate research projects.  
-His volunteering affiliations include IEEE Bangladesh Section, IEEE Young Professionals Bangladesh, AIUB Community of Engineering Students (ACES) Research Group, IEEE AIUB Student Branch and Erasmus Mundus Association. 
-Currently, he is looking for PhD in the field of Artifical Intelligence with Hardware Acceleration and Quantum Computing.  
+I am Kazi Ahmed Asif Fuad, an AI and Embedded System Engineer. I have been working as Lecturer at American International University-Bangladesh (AIUB) since 2016. Currently, I am also working as Invited Researcher under the supervision of Professor Jenny Benois-Pineau at LaBRI, Bordeaux, France. 
+Recently, I have graduated from the Erasmus+ Mundus Joint Master in Image Processing and Computer Vision (IPCV), a triple Masters Program, with Erasmus+ Mundus Scholarship. 
+Before that, I earned my Master of Science (MSc.) degree and Bachelor of Science (BSc.) degree in Electrical and Electronic Engineering at American International University-Bangladesh (AIUB) in 2014 and 2016 respectively. 
+I am recipient of the “Summa Cum Laude” (Highest Academic Award) distinction, the Highest academic honor at the 16th Convocation Ceremony of AIUB. I have also been awarded “Vice Chancellor's Best Thesis” (Gold Medal) for both of my final-year graduate and undergraduate research projects.
+My volunteering affiliations include IEEE Bangladesh Section, IEEE Young Professionals Bangladesh, AIUB Community of Engineering Students (ACES) Research Group, IEEE AIUB Student Branch and Erasmus Mundus Association. 
+Currently, I am looking for PhD in the field of Artifical Intelligence with Hardware Acceleration.  
 
 
 Research Interest

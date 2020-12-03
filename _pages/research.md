@@ -56,14 +56,15 @@ author_profile: true
 		
   [C2](https://ieeexplore.ieee.org/document/7913024 "anticolliison") Tasneem Sanjana, **Kazi Ahmed Asif Fuad**, Mehrab Masayeed Habib, Ahmed Amin Rumel, "Automated anti-collision system for automobiles" 2017 International Conference on Electrical, Computer and Communication Engineering (ECCE), Cox's Bazar, 2017, pp. 866-870. 
 		
-  [C1](https://ieeexplore.ieee.org/document/7443999 "CLSAPSN") **Kazi Ahmed Asif Fuad**, Md. Maruf Ibne Hasan, Laila Nawsheen Manzoor, Mohammad Abdul Mannan, Chowdhury Akram Hossain, "Design and simulation of centralized load controlled automated power system network (CLCAPSN)" 2015 IEEE International WIE Conference on Electrical and Computer Engineering\ (WIECON-ECE), Dhaka, 2015, pp. 61-64. 
+  [C1](https://ieeexplore.ieee.org/document/7443999 "CLSAPSN") **Kazi Ahmed Asif Fuad**, Md. Maruf Ibne Hasan, Laila Nawsheen Manzoor, Mohammad Abdul Mannan, Chowdhury Akram Hossain, "Design and simulation of centralized load controlled automated power system network (CLCAPSN)" 2015 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE), Dhaka, 2015, pp. 61-64. 
 		
+
 
 # Projects
 
 # ---------------------------------------------------------------------------------------------------------
 
-#### IPCV Master Thesis: **Recognition of Sports Gestures with 3D Deep CNNs: Explanation of Networks** 
+## IPCV Master Thesis: **Recognition of Sports Gestures with 3D Deep CNNs: Explanation of Networks** 
 ----
 
 Supervised by: [Professor Jenny Benois-Pineau](https://www.labri.fr/projet/AIV/jennybenoispineauen.php "Profile").
@@ -92,7 +93,7 @@ all the models, it is observed that Our algorithm is similar to Grad-CAM and Gui
 AlexNet and VGG-16 and satisfactory results are obtained. Computationally, the proposed algorithm is twice faster. Hence, this simple computationally inexpensive visualization
 technique is similar to Grad-CAM but does not require heavy gradient computation.
 
-#### Master in EEE Thesis: **Area-Efficient FPGA realization of Edge Detectors by varying sample-widths and gradient operators and utilizing Software-Hardware Co-Design.** 
+## Master in EEE Thesis: **Area-Efficient FPGA realization of Edge Detectors by varying sample-widths and gradient operators and utilizing Software-Hardware Co-Design.** 
 ----
 Supervised by: Associate Professor Shahriyar Masud Rizvi.
 
@@ -109,7 +110,7 @@ detector with Sobel-Fieldman operator (the former can detect more edges than any
 realized in hardware Spartan-6 LX16 FPGAs from Xilinx utilizing Simulink (from Mathworks) and System Generator (XSG) (From Xilinx).
 
 
-#### Bachelor in EEE Thesis: **Design and Implementation of Centralized Load Controlled Automated Power System Network (CLCAPSN)** 
+## Bachelor in EEE Thesis: **Design and Implementation of Centralized Load Controlled Automated Power System Network (CLCAPSN)** 
 ----
 
 Supervised by: Ms. Laila Nawsheen Manzoor.
@@ -126,58 +127,61 @@ Intelligence”.
 User load nature throughout a particular time let the system predict about future and allows the power administrators to design the system and maintain it efficiently. Pre-paid billing makes sure profit
 alongside making mental awareness not to waste power.
 
-#### Analysis of Pre-Processing Techniques for Person Re-identification System.
+## Analysis of Pre-Processing Techniques for Person Re-identification System.
 ----		
+
+Supervised by [Dr. Aurélie Bugeau](https://www.labri.fr/perso/bugeau/).
+
 <center>
   <img src="/images/projects/trdp_two.png" alt="trdp_two">
 </center>
 
-Supervised by [Dr. Aurélie Bugeau](https://www.labri.fr/perso/bugeau/).
-
 Second part of Tutored Research Development Project of IPCV. For person re-identification use case, we applied two pre-processing techniques: Midway Image Equalization and Luminance Remapping to deal the issues like illumination and viewpoint and around 10% improvement is achieved in the person re-id system by experimented on publicly available Viper dataset. 
 
 
-#### Multi-Camera Object Detection and Association.
+## Multi-Camera Object Detection and Association.
 ----
 Supervised by [Dr. Álvaro García Martín](http://www-vpu.eps.uam.es/webvpu/gti/user/29/).
 
 First part of Tutored Research Development Project of IPCV. In this project, a State of Art person re-identification in multicamera scenario has been analyzed where many combinations of feature learning, metric learning and ranking algorithms have been implemented. Primarily, we applied Transfer Learning on CNN based feature learning and incorporated score fusion which improved the re-id system by around 5\% to 10\% on different Convolutional Neural Networks.
 		
-#### CERN Openlab Summer Project on “Graph Neural Network (GNN) Inference on FPGAs”.
+## CERN Openlab Summer Project on “Graph Neural Network (GNN) Inference on FPGAs”.
 ----
+
+Supervised by [Dr. Sofia Vallecorsa](https://www.linkedin.com/in/sofia-vallecorsa-93ab36b1/).
+
 <center>
   <img src="/images/projects/hls_cern.JPG" alt="HLS_CERN">
 </center>
-
-Supervised by [Dr. Sofia Vallecorsa](https://www.linkedin.com/in/sofia-vallecorsa-93ab36b1/).
 
 Graph  Neural  Network possess  prospect  in  track  reconstruction for the Large  Hadron  Collider use-case due to high dimensional and sparse data. 
 In our research, we have used hls4ml, a machine learning inference package for FPGAs that converts a Neural Network model into Synthesis (HLS) C++ code and we have  evaluated different architectural approaches: Pipeline,  Dataflow  and Dataflow  with  pipeline blocks architectures. 
 Results  show that the Pipeline  architecture  is  the  fastest  but  it  has some disadvantages such as large loop unrolling and non-functioning reuse factor. On the other hand, our implementation of the system using the Dataflow architecture is too slow but it does not solve large synthesis time. 
 Our proposed modified Dataflow architecture where some of the building blocks are in pipeline architecture shows prominent results compared to Pipeline and Dataflow architecture. [Report](https://zenodo.org/record/3764836#.X3cZY8dR2Um) [Code](https://github.com/asifahmedfuad/hls4ml/tree/hack6/example-prjs/GNN)
 		
-#### Deep Learning based Pedestrian Detection.
+## Deep Learning based Pedestrian Detection.
 ----
 
 In this project, YOLO V3 deep-learning object detection technique is fine-tuned for pedestrian detection usecase. This project won 3rd position based on performance over Nine datasets in the People Detection and Biometric Recognition course. 
 		
-#### Implementation of Sobel Edge Detector on FPGA with Vivado High Level Synthesis.
+## Implementation of Sobel Edge Detector on FPGA with Vivado High Level Synthesis.
 ----
 
 Implemented an Sobel filter for Edge Detection in images based on FPGA so that to provides high-speed performance of the algorithm.
 
-#### Design and Implementation of Pipeline RISC Processor using SystemVerilog.
+## Design and Implementation of Pipeline RISC Processor using SystemVerilog.
 ----
 
 Implemented a 1-Cycle and 2-Cycle 2 Stage Pipeline RISC Processor capable of executing 5 different type of instructions. It was coded with SystemVerilog HDL and developed using Finite State Machine and Datapath (FSMD) approach with ASM Chart for Spartan-6 LX16 FPGA.
 				
-#### FPGA and Microcontroller based Data Acquisition System using Two Wire Serial Communication.
+## FPGA and Microcontroller based Data Acquisition System using Two Wire Serial Communication.
 ----
 
 In this project, Data Acquisition System (DAQ) is implemented that monitors temperature, gas level, humidity and light intensity and sends those information in a wired network to a central controller which displays the information to a computer. The project implements two version of such a DAQ system– one where both the data receiver and controller are implemented in Atmel’s AVR ATmega32 microcontroller and another where the controller is implemented in a Spartan-6 LX16 FPGA from Xilinx (included in Digilent’s Nexys3 FPGA Board) while the data receiver are implemented in the above mentioned micro-controller. 
 	
-#### Design and Implementation of an automatic system for Hydrophonic: Fodder usecase.
+## Design and Implementation of an automatic system for Hydrophonic: Fodder usecase.
 ----
+
 <center>
   <img src="/images/projects/fodder.png" alt="fodder">
 </center>
@@ -185,12 +189,12 @@ In this project, Data Acquisition System (DAQ) is implemented that monitors temp
 This was an experimental project on Hydrophonic. We successfully produced Fodder from Corn with the implemented automatic irrigation system, equipped with Real Time Clock and sensors. 
 The prototype was developed in Arduino Mega256. [Code](https://github.com/asifahmedfuad/auto_hydrophonic_fodder)
 		
-#### Implementation of a Traffic Light Controller (TLC) on Nexys™3 Spartan-6 FPGA Board.
+## Implementation of a Traffic Light Controller (TLC) on Nexys™3 Spartan-6 FPGA Board.
 ----
 
 In this project, an automatic Traffic Light Controller with predetermined time sequences for Red, Green and Blue light signals was implemented. The Finite State Machine (FSM) of the TLC was programmed with both VHDL and SystemVerilog for RTL Synthesis and Post Place and Route comparison. 
 		
-#### Design and Implementation of Dual-Axis Solar Tracker Using Microcontroller and RTC Chip.
+## Design and Implementation of Dual-Axis Solar Tracker Using Microcontroller and RTC Chip.
 ----
 
 In this project, a more efficient solar tracker is implemented based on solar energy intensity and Real time clock that helps keeping the solar panel pointed to the sun at an optimal angle all over the year. The designed system requires minimum maintenance with a practical improvement of system-efficiency at a low cost of similar output capacity. 
