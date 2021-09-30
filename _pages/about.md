@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Kazi Ahmed Asif Fuad, an AI and Embedded System Engineer. I have been working as Lecturer at American International University-Bangladesh (AIUB) since 2016. Currently, I am also working as Invited Researcher under the supervision of Professor Jenny Benois-Pineau at LaBRI, Bordeaux, France. 
+I am Kazi Ahmed Asif Fuad, an AI and Digital System Engineer. Currently, I am a PhD student in the field of Artifical Intelligence with Hardware Acceleration. I am an Assistant Professor at American International University-Bangladesh (AIUB). 
 Recently, I have graduated from the Erasmus+ Mundus Joint Master in Image Processing and Computer Vision (IPCV), a triple Masters Program, with Erasmus+ Mundus Scholarship. 
 Before that, I earned my Master of Science (MSc.) degree and Bachelor of Science (BSc.) degree in Electrical and Electronic Engineering at American International University-Bangladesh (AIUB) in 2014 and 2016 respectively. 
 I am recipient of the “Summa Cum Laude” (Highest Academic Award) distinction, the Highest academic honor at the 16th Convocation Ceremony of AIUB. I have also been awarded “Vice Chancellor's Best Thesis” (Gold Medal) for both of my final-year graduate and undergraduate research projects.
 My volunteering affiliations include IEEE Bangladesh Section, IEEE Young Professionals Bangladesh, AIUB Community of Engineering Students (ACES) Research Group, IEEE AIUB Student Branch and Erasmus Mundus Association. 
-Currently, I am looking for PhD in the field of Artifical Intelligence with Hardware Acceleration.  
 
 
 Research Interest
@@ -26,7 +25,9 @@ Research Interest
 
 Experience
 ------
-> **Lecturer, Dept. of Electrical and Electronic Engineering, Faculty of Engineering, American International University-Bangladesh (AIUB)**
+> **Graduate Research Assistant, School of Electrical Engineering & Computer Science,Oregon State University (OSU)**
+
+> **Assistant Professor (on study leave), Dept. of Electrical and Electronic Engineering, Faculty of Engineering, American International University-Bangladesh (AIUB)**
 
 > **Master Thesis Intern, Laboratoire Bordelais de Recherche en Informatique (LaBRI)**
 
@@ -66,24 +67,16 @@ Expertise
 |:-------------|:------------------|:----------|
 | RTL Designing, Hardware Description Language (HDL), VLSI, High Level Synthesis (HLS) and Embedded System | VHDL, Verilog, SystemVerilog, C++(Vivado HLS), C (MCU Programming) and Spice  | Aldec Active HDL, Precision RTL, Xilinx Vivado, Xilinx Vivado HLS, MATLAB, Xilinx System Generator, Cadence Virtuoso, HSpice and Proteus |
 
-
-Honors and Awards
------
-  * Erasmus Mundus Joint Master (EMJMD) scholarship for Master in Image Processing and Computer Vision (IPCV), covering full tuition fees and a monthly stipend (Total 42,000 EUR).
-  * Highest Academic Honor, Summa Cum Laude, for graduating with a CGPA of 4.00 (in a scale of 4.00) in Master of Science in Electrical and Electronic Engineering, American International University-Bangladesh.
-  * “Vice-Chancellor’s Best Thesis Award” for BSc. Project and Thesis among 160 Projects and Theses in the Convocation Year-2014. 
-  * “Vice-Chancellor’s Best Thesis Award” for MSc. Thesis among all the Master Theses from Engineering Faculty in the Convocation Year-2016.
-  * Academic Scholarship from Dhaka Board for Excellent result in Secondary School Certificate (SSC) Examination 2007. 
   
 Contact
 -----
   
 **Kazi Ahmed Asif Fuad**\
-Lecturer, Dept. of EEE,\
-Faculty of Engineering,\
-American International University-Bangladesh(AIUB)\
-408/1, Kuratoli, Khilkhet, Dhaka 1229, Bangladesh.\
-Email: *asif.fuad@aiub.edu; asif.ahmed.fuad@gmail.com* 
+Graduate Research Assistant,\
+School of Electrical Engineering & Computer Science,\
+Oregon State University,\
+1148 Kelley Engineering Center, Corvallis, Oregon 97331-5501\
+Email: *fuadk@oregonstate.edu; asif.ahmed.fuad@gmail.com* 
 
 <br />
 

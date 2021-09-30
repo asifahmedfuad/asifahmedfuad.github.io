@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kazi Ahmed Asif Fuad"
   avatar           : "profile.png"
-  bio              : "Lecturer, AI Researcher"
+  bio              : "Teacher, AI Researcher"
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "asif-fuad"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0478-5891"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

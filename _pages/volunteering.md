@@ -9,14 +9,19 @@ author_profile: true
 <a href="https://ieeeaiubsb.com"> <img src="/images/icons/ieee_aiub.png" alt="IEEE and IEEE AIUB SB"> </a>
 </center>
 
-> Volunteer of IEEE AIUB Student Branch from September, 2011 to August, 2012.
+> President (January 2021- Present), Alumni of IPCV.
 
-> Webmaster & Designer, IEEE AIUB Student Branch from August, 2012 to December, 2013. 
+> Volunteer (2020), Erasmus Mundus Association-Bangladesh.
 
-> Advisor, IEEE Industry Applications Society (IAS) from September, 2015 to December, 2019.
+> Student Representative (2018-2020), IPCV Advisory Board.
+
+> Vice-Chair(Technical) (2018), IEEE Young Professionals Bangladesh.
+
 
 > Motivator, IEEE AIUB Student Branch from May, 2016 to August 17, 2018.\
 Responsible to collaborate with student members to organize different events.
+
+> Advisor, IEEE Industry Applications Society (IAS) from September, 2015 to December, 2019.
 
 > Publicity Coordinator (2016), IEEE Bangladesh Section.\
 Responsible for website designing and updating.  
@@ -24,11 +29,10 @@ Responsible for website designing and updating.
 > ACES Alumnus & Research Group Coordinator since January, 2015 to August, 2018.\
 Supervising undergraduate students to participate in national and international competitions. 
 
-> Vice-Chair(Technical) (2018), IEEE Young Professionals Bangladesh.
+> Webmaster & Designer, IEEE AIUB Student Branch from August, 2012 to December, 2013. 
 
-> Student Representative, IPCV Advisory Board.
+> Volunteer of IEEE AIUB Student Branch from September, 2011 to August, 2012.
 
-> Volunteer, Erasmus Mundus Association-Bangladesh.
 
 <br />
 

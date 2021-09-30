@@ -21,7 +21,17 @@ author_profile: true
 <a href="https://www.u-bordeaux.com/">
   <img src="/images/icons/ub.png" alt="UB">
 </a>
+<a href="https://oregonstate.edu">
+  <img src="/images/icons/osu.jpg" alt="OSU">
+</a>
 </center>
+
+
+## Doctor of Philosophy in Computer Science
+### Oregon State University, Corvallis, Oregon
+Research area: **Natural Language Processing, Hardware Accelerator** 
+
+# ---------------------------------------------------------------------------------------------------------
 
 
 ## Erasmus+ Mundus Joint Master’s on Image Processing and Computer Vision (IPCV)
@@ -160,9 +170,10 @@ Supervised by: Ms. Laila Nawsheen Manzoor.
 
 > Group: Science
 
-
+ 
 # ---------------------------------------------------------------------------------------------------------
  
+
 ## MOOCs
 
 > Deep Learning Specialization. DeepLearning.ai, Coursera. [Credential ID: 464UTJQF5BXD](https://coursera.org/verify/specialization/464UTJQF5BXD)

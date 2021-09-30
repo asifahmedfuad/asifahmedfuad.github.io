@@ -15,12 +15,33 @@ author_profile: true
 <a href="https://www.labri.fr">
   <img src="/images/icons/LABRI_small.png" alt="LaBRI">
 </a>
+<a href="https://oregonstate.edu">
+  <img src="/images/icons/osu.jpg" alt="OSU">
+</a>
 </center>
 
 # ---------------------------------------------------------------------------------------------------------
- 
 
-### I have rejoined AIUB on October 11, 2020 after the Study Leave and am currently continuing as 
+> **Graduate Research Assistant**,\
+The School of Electrical Engineering and Computer Science (EECS),\
+Oregon State University (OSU)\
+Corvallis, Oregon\
+<a href="https://oregonstate.edu"> oregonstate.edu</a>
+
+
+
+# ---------------------------------------------------------------------------------------------------------
+ 
+### Since August 27, 2021, I am on study leave to pursue my PhD at OSU.
+
+> **Assistant Professor**,\
+Department of EEE, Faculty of Engineering,\
+American International University-Bangladesh (AIUB)\
+Dhaka, Bangladesh\
+<a href="https://www.aiub.edu"> www.aiub.edu</a>
+
+
+# ---------------------------------------------------------------------------------------------------------
 
 > **Lecturer**,\
 Department of EEE, Faculty of Engineering,\
