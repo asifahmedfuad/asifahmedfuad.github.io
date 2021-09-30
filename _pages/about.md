@@ -73,7 +73,7 @@ Contact
   
 **Kazi Ahmed Asif Fuad**\
 Graduate Research Assistant,\
-School of Electrical Engineering & Computer Science,\
+The School of Electrical Engineering & Computer Science,\
 Oregon State University,\
 1148 Kelley Engineering Center, Corvallis, Oregon 97331-5501\
 Email: *fuadk@oregonstate.edu; asif.ahmed.fuad@gmail.com* 
