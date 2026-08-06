@@ -62,8 +62,8 @@
       window.pJSDom = [];
     }
   }
-  // Load particles from the JSON config; in dark mode, brighten the dots so they
-  // stay visible against the dark background (JSON stays the source for light mode).
+  /* Load particles from the JSON config; in dark mode, brighten the dots so they
+     stay visible against the dark background (JSON is the source for light mode). */
   window.loadParticles = function () {
     fetch(CONFIG_URL).then(function (r) { return r.json(); }).then(function (cfg) {
       if (currentTheme() === 'dark') {
