@@ -1,0 +1,96 @@
+<div id="particles-js"></div>
+
+<button id="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark / light mode">🌙</button>
+
+<style>
+  html, body { background: transparent !important; }
+  .page, .page__content, #main, .archive,
+  .sidebar, .sidebar__right, .author__avatar,
+  .masthead, .page__footer,
+  .page-inner-wrap, article.page {
+    background: transparent !important;
+    background-color: transparent !important;
+  }
+
+  /* full-screen animated background layer; color adapts to theme */
+  #particles-js {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    z-index: -1;
+    background: var(--enh-page-bg, #ffffff);
+    transition: background .3s ease;
+  }
+
+  /* content card over particles */
+  #main {
+    background: var(--enh-card, rgba(255, 255, 255, 0.92)) !important;
+    border-radius: 6px;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.06);
+    padding: 2em;
+    position: relative;
+    z-index: 1;
+    transition: background .3s ease;
+  }
+
+  /* dark / light toggle button */
+  #theme-toggle {
+    position: fixed;
+    right: 18px; bottom: 18px;
+    z-index: 1000;
+    width: 44px; height: 44px;
+    border: none; border-radius: 50%;
+    cursor: pointer;
+    background: #1f4e5f; color: #fff;
+    font-size: 1.2rem; line-height: 1;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, .25);
+  }
+  #theme-toggle:hover { filter: brightness(1.12); }
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+<script>
+(function () {
+  var CONFIG_URL = '{{ base_path }}/assets/js/particles-config.json';
+
+  function currentTheme() {
+    return document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+  }
+  function destroyParticles() {
+    if (window.pJSDom && pJSDom.length) {
+      try { pJSDom[0].pJS.fn.vendors.destroypJS(); } catch (e) {}
+      window.pJSDom = [];
+    }
+  }
+  // Load particles from the JSON config; in dark mode, brighten the dots so they
+  // stay visible against the dark background (JSON stays the source for light mode).
+  window.loadParticles = function () {
+    fetch(CONFIG_URL).then(function (r) { return r.json(); }).then(function (cfg) {
+      if (currentTheme() === 'dark') {
+        cfg.particles.color.value = '#7fc4d8';
+        cfg.particles.line_linked.color = '#7fc4d8';
+      }
+      destroyParticles();
+      particlesJS('particles-js', cfg);
+    });
+  };
+  function updateToggleIcon() {
+    var b = document.getElementById('theme-toggle');
+    if (b) b.textContent = currentTheme() === 'dark' ? '☀️' : '🌙';
+  }
+  window.toggleTheme = function () {
+    var next = currentTheme() === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    try { localStorage.setItem('theme', next); } catch (e) {}
+    updateToggleIcon();
+    window.loadParticles();
+  };
+  document.addEventListener('DOMContentLoaded', function () {
+    var b = document.getElementById('theme-toggle');
+    if (b) b.addEventListener('click', window.toggleTheme);
+    updateToggleIcon();
+  });
+
+  window.loadParticles();
+})();
+</script>

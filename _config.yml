@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kazi Ahmed Asif Fuad"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kazi Ahmed Asif Fuad"
 description              : &description "personal description"
 url                      : https://asifahmedfuad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile.png"  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kazi Ahmed Asif Fuad"
   avatar           : "profile.png"
-  bio              : "Teacher, AI Researcher"
+  bio              : "AI Researcher<br>LLMs & AI Hardware"
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : 
@@ -123,6 +123,10 @@ include:
   - _pages
   - files
 exclude:
+  - legacy
+  - HOW_TO_RUN_LOCALLY.md
+  - EDITING_GUIDE.md
+  - PROGRESS_LOG.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

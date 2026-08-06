@@ -8,71 +8,108 @@ redirect_from:
   - /about.html
 ---
 
-I am Kazi Ahmed Asif Fuad, an AI and Digital System Engineer. Currently, I am a PhD student in the field of Artifical Intelligence with Hardware Acceleration. I am an Assistant Professor at American International University-Bangladesh (AIUB). 
-Recently, I have graduated from the Erasmus+ Mundus Joint Master in Image Processing and Computer Vision (IPCV), a triple Masters Program, with Erasmus+ Mundus Scholarship. 
-Before that, I earned my Master of Science (MSc.) degree and Bachelor of Science (BSc.) degree in Electrical and Electronic Engineering at American International University-Bangladesh (AIUB) in 2014 and 2016 respectively. 
-I am recipient of the “Summa Cum Laude” (Highest Academic Award) distinction, the Highest academic honor at the 16th Convocation Ceremony of AIUB. I have also been awarded “Vice Chancellor's Best Thesis” (Gold Medal) for both of my final-year graduate and undergraduate research projects.
-My volunteering affiliations include IEEE Bangladesh Section, IEEE Young Professionals Bangladesh, AIUB Community of Engineering Students (ACES) Research Group, IEEE AIUB Student Branch and Erasmus Mundus Association. 
+I'm Kazi Ahmed Asif Fuad (Asif, for short), a **PhD candidate** in Electrical Engineering and Computer Science at Oregon State University, supervised by Professor Lizhong Chen. My research lives in two places I enjoy about equally: building with large language models, and making deep learning run more efficiently in hardware. On the language side I've worked on systems for simultaneous translation and for technical writing; on the hardware side I study how AI models and the accelerators they run on can be made faster and leaner. I'm also an **Assistant Professor** of Electrical and Electronic Engineering at American International University-Bangladesh (AIUB), currently on study leave to finish the PhD.
+
+The route here was a winding one. I did a triple degree Erasmus+ Mundus master's in Image Processing and Computer Vision across Bordeaux, Madrid, and Budapest, spent a summer at CERN getting graph neural networks to run on FPGAs, and completed my BSc and MSc in Electrical and Electronic Engineering back home in Dhaka, finishing my master's *Summa Cum Laude*. If there's a common thread, it's a stubborn curiosity about how AI systems work under the hood, and about building the pieces that make them run better.
 
 
-Research Interest
-----
-<center>
-<img src="/images/icons/ai.PNG" alt="Artificial Intelligence (AI)"> <img src="/images/icons/dsd.PNG" alt="Digital System Designing"> <img src="/images/icons/dl.PNG" alt="Deep Learning"> 
-<img src="/images/icons/ml.PNG" alt="Machine Learning"> <img src="/images/icons/xai.PNG" alt=" Explainable AI (AI)">  <img src="/images/icons/cv.PNG" alt="Computer Vision">
-<img src="/images/icons/hls.PNG" alt="High Level Synthesis">
-</center>
+## Recent News
 
-Experience
-------
-> **Graduate Research Assistant, School of Electrical Engineering & Computer Science,Oregon State University (OSU)**
-
-> **Assistant Professor (on study leave), Dept. of Electrical and Electronic Engineering, Faculty of Engineering, American International University-Bangladesh (AIUB)**
-
-> **Master Thesis Intern, Laboratoire Bordelais de Recherche en Informatique (LaBRI)**
-
-> **Openlab Summer Student, European Organisation for Nuclear Research (CERN)** 
-
-> **Graduate, Erasmus+ Mundus Joint Master Image Pocessing & Computer Vision**          
-  * Université de Bordeaux, Bordeaux, France; 
-  * Universidad Autónoma de Madrid, Madrid, Spain; 
-  * Pázmány Péter Katolikus Egyetem, Budapest, Hungary.
+<!-- EDIT NEWS: copy a <li> line, change the date and text. Newest goes on top. -->
+<ul class="enh-news enh-reveal">
+  <li><span class="enh-date">Jun 2026</span><span class="enh-what">Passed the PhD Preliminary Examination at Oregon State University.</span></li>
+  <li><span class="enh-date">Nov 2025</span><span class="enh-what">New preprint on arXiv — <em>QuantKAN: A Unified Quantization Framework for Kolmogorov–Arnold Networks</em>.</span></li>
+  <li><span class="enh-date">Nov 2024</span><span class="enh-what">New preprint on arXiv — <em>LLM-Ref: Enhancing Reference Handling in Technical Writing with Large Language Models</em>.</span></li>
+  <li><span class="enh-date">Aug 2024</span><span class="enh-what"><em>Simul-LLM</em> published at the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024), Bangkok.</span></li>
+  <li><span class="enh-date">2023</span><span class="enh-what">Published <em>A Survey on Sparsity Exploration in Transformer-Based Accelerators</em> in Electronics (MDPI).</span></li>
+  <li><span class="enh-date">Jan 2023</span><span class="enh-what">Passed the PhD Qualifying Examination at Oregon State University.</span></li>
+  <li><span class="enh-date">Aug 2021</span><span class="enh-what">Joined Oregon State University (School of EECS) as a Graduate Assistant to pursue a PhD.</span></li>
+</ul>
 
 
-Expertise
------
-<center>
-<img src="/images/icons/cv.jpg" alt="Computer Vision">
-<img src="/images/icons/DL.jpg" alt="Deep Learning"> <img src="/images/icons/tf.png" alt="TensorFlow"> <img src="/images/icons/keras.jpg" alt="Keras"> 
-<img src="/images/icons/pytorch.jpg" alt="PyTorch"> <img src="/images/icons/C++.png" alt="C++"> 
-<img src="/images/icons/python.png" alt="Python"> <img src="/images/icons/Cs.png" alt="C#">
-<img src="/images/icons/unity3d.jpg" alt="Unity 3D"> <img src="/images/icons/vs.png" alt="Visual Studio">
-</center>
+## Experience &amp; Education
+
+<!-- EDIT TIMELINE: copy a block. Use class "enh-tl" for jobs, "enh-tl edu" for education (teal dot). -->
+<div class="enh-timeline enh-reveal">
+  <div class="enh-tl">
+    <h4>Graduate Assistant</h4>
+    <div class="enh-org">Oregon State University — School of EECS</div>
+    <p class="enh-meta">Corvallis, Oregon, USA · Aug 2021 – Present</p>
+  </div>
+  <div class="enh-tl">
+    <h4>Assistant Professor <span style="font-weight:400;color:#5c6771">(on study leave)</span></h4>
+    <div class="enh-org">American International University-Bangladesh (AIUB)</div>
+    <p class="enh-meta">Dept. of Electrical &amp; Electronic Engineering, Dhaka · On study leave since Aug 2021</p>
+  </div>
+  <div class="enh-tl">
+    <h4>Master Thesis Intern</h4>
+    <div class="enh-org">LaBRI — Laboratoire Bordelais de Recherche en Informatique</div>
+    <p class="enh-meta">Bordeaux, France · Feb – Jul 2020</p>
+  </div>
+  <div class="enh-tl">
+    <h4>Openlab Summer Student</h4>
+    <div class="enh-org">CERN — European Organisation for Nuclear Research</div>
+    <p class="enh-meta">Geneva, Switzerland · Jul – Aug 2019</p>
+  </div>
+  <div class="enh-tl edu">
+    <h4>Erasmus+ Mundus Joint Master, Image Processing &amp; Computer Vision (IPCV)</h4>
+    <div class="enh-org">Triple-degree · Erasmus+ Mundus Scholarship</div>
+    <p class="enh-meta">2018 – 2020</p>
+    <p class="enh-sub">Université de Bordeaux (France) · Universidad Autónoma de Madrid (Spain) · Pázmány Péter Katolikus Egyetem (Hungary)</p>
+  </div>
+  <div class="enh-tl edu">
+    <h4>MSc &amp; BSc in Electrical &amp; Electronic Engineering</h4>
+    <div class="enh-org">American International University-Bangladesh (AIUB)</div>
+    <p class="enh-meta">Dhaka, Bangladesh · 2009 – 2015 · Summa Cum Laude (Highest Academic Award)</p>
+  </div>
+</div>
 
 
+## Selected Publications
 
-| Image Processing & Computer  Vision | Languages & Libraries | Tools |
-|:-------------|:------------------|:------|
-| Artifical Intelligence, Explainable AI, Computer Vision, Deep Learning, Machine Learning |  C, C++, Python, PyTorch, TensorFlow, Keras, OpenCV, Numpy, MATLAB | Microsoft Visual Studio, Anaconda, Eclipse, MATLAB |
+<!-- EDIT PUBLICATIONS: the grey box shows the year; to use a real figure instead,
+     put an image in /images/ and replace e.g. <div class="enh-thumb">2025</div>
+     with <div class="enh-thumb"><img src="/images/your-figure.png" alt=""></div> -->
+<div class="enh-pub enh-reveal">
+  <div class="enh-thumb">2025</div>
+  <div>
+    <h4>QuantKAN: A Unified Quantization Framework for Kolmogorov–Arnold Networks</h4>
+    <div class="enh-venue">arXiv preprint · 2025</div>
+    <div class="enh-plinks"><a href="https://arxiv.org/abs/2511.18689">Paper</a></div>
+  </div>
+</div>
+<div class="enh-pub enh-reveal">
+  <div class="enh-thumb">2024</div>
+  <div>
+    <h4>Simul-LLM: A Framework for High-Quality Simultaneous Translation with LLMs</h4>
+    <div class="enh-venue">Annual Meeting of the Association for Computational Linguistics (ACL) · 2024</div>
+    <div class="enh-plinks"><a href="https://aclanthology.org/2024.acl-long.567/">Paper</a> <a href="https://github.com/OSU-STARLAB/Simul-LLM">Code</a></div>
+  </div>
+</div>
+<div class="enh-pub enh-reveal">
+  <div class="enh-thumb">2023</div>
+  <div>
+    <h4>A Survey on Sparsity Exploration in Transformer-Based Accelerators</h4>
+    <div class="enh-venue">Electronics (MDPI) · 2023</div>
+    <div class="enh-plinks"><a href="https://www.mdpi.com/2079-9292/12/10/2299">Paper</a></div>
+  </div>
+</div>
+<div class="enh-pub enh-reveal">
+  <div class="enh-thumb">2020</div>
+  <div>
+    <h4>Features Understanding in 3D CNNs for Actions Recognition in Video</h4>
+    <div class="enh-venue">Int. Conf. on Image Processing Theory, Tools and Applications (IPTA) · 2020</div>
+    <div class="enh-plinks"><a href="https://github.com/asifahmedfuad/feature_understanding_method">Code</a></div>
+  </div>
+</div>
+
+<p style="font-size:.85rem;color:#5c6771;margin-top:6px;">See all publications on the <a href="/research/">Research</a> page.</p>
 
 
-<center>
-<img src="/images/icons/vivado.jpg" alt="Vivado HLS"> <img src="/images/icons/sv.jpg" alt="SystemVerilog">
-<img src="/images/icons/vhdl.jpg" alt="VHDL"> <img src="/images/icons/precision.jpg" alt="Precision RTL"> <img src="/images/icons/matlab.png" alt="MATLAB"> <img src="/images/icons/active.png" alt="Active HDL">
-<img src="/images/icons/cadence.png" alt="Cadence">
-</center>
-
-
-| Digital System Designing | Languages | Tools |
-|:-------------|:------------------|:----------|
-| RTL Designing, Hardware Description Language (HDL), VLSI, High Level Synthesis (HLS) and Embedded System | VHDL, Verilog, SystemVerilog, C++(Vivado HLS), C (MCU Programming) and Spice  | Aldec Active HDL, Precision RTL, Xilinx Vivado, Xilinx Vivado HLS, MATLAB, Xilinx System Generator, Cadence Virtuoso, HSpice and Proteus |
-
-  
-Contact
------
+## Contact
   
 **Kazi Ahmed Asif Fuad**\
-Graduate Research Assistant,\
+Graduate Assistant,\
 The School of Electrical Engineering & Computer Science,\
 Oregon State University,\
 1148 Kelley Engineering Center, Corvallis, Oregon 97331-5501\
@@ -81,5 +118,3 @@ Email: *fuadk@oregonstate.edu; asif.ahmed.fuad@gmail.com*
 <br />
 
 *The profile photo that I use everywhere, is captured by [Md. Jubaear Alam](https://www.facebook.com/jubaearshahrukh).* 
-
-  

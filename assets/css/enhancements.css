@@ -1,0 +1,198 @@
+/* =====================================================================
+   enhancements.css — custom sections for the About page
+   Added sections: Recent News, Interest/Skill Badges, Experience Timeline,
+   Awards, Featured Publications.
+   All classes are prefixed "enh-" so they never clash with the theme.
+   Colors: --enh-navy (particle navy-teal) and --enh-teal (site accent).
+   ===================================================================== */
+:root{
+  --enh-navy:#1f4e5f;
+  --enh-teal:#52adc8;
+  --enh-muted:#5c6771;
+  --enh-line:#e3e8ec;
+}
+
+/* ---------- Recent News ---------- */
+.enh-news{list-style:none;margin:0 0 1em;padding:0;}
+.enh-news li{display:flex;gap:14px;padding:9px 0;border-bottom:1px dashed var(--enh-line);}
+.enh-news li:last-child{border-bottom:none;}
+.enh-news .enh-date{flex:none;width:92px;color:var(--enh-teal);font-weight:700;font-size:.85rem;padding-top:1px;}
+.enh-news .enh-what{font-size:.95rem;}
+
+/* ---------- Badges (interests + skills) ---------- */
+.enh-badges{display:flex;flex-wrap:wrap;gap:9px;margin:.4em 0 1em;}
+.enh-badge{
+  display:inline-block;font-size:.85rem;font-weight:500;padding:6px 14px;border-radius:20px;
+  background:rgba(31,78,95,.08);color:var(--enh-navy);border:1px solid rgba(31,78,95,.15);
+}
+.enh-badge.alt{background:rgba(82,173,200,.12);color:#2c7d95;border-color:rgba(82,173,200,.30);}
+
+/* ---------- Experience / Education timeline ---------- */
+.enh-timeline{position:relative;margin:.4em 0 1em;padding:4px 0 0 0;}
+.enh-timeline::before{content:"";position:absolute;left:9px;top:8px;bottom:8px;width:2px;background:var(--enh-line);}
+.enh-tl{position:relative;padding:0 0 20px 34px;}
+.enh-tl::before{content:"";position:absolute;left:2px;top:4px;width:16px;height:16px;border-radius:50%;background:#fff;border:3px solid var(--enh-navy);}
+.enh-tl.edu::before{border-color:var(--enh-teal);}
+.enh-tl h4{margin:0 0 2px;font-size:1rem;}
+.enh-tl .enh-org{color:var(--enh-navy);font-weight:600;}
+.enh-tl .enh-meta{color:var(--enh-muted);font-size:.85rem;margin:2px 0 0;}
+.enh-tl .enh-sub{color:var(--enh-muted);font-size:.85rem;margin:4px 0 0;}
+
+/* ---------- Awards ---------- */
+.enh-awards{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:.4em 0 1em;}
+.enh-award{background:linear-gradient(135deg,rgba(31,78,95,.06),rgba(82,173,200,.06));border:1px solid var(--enh-line);border-radius:10px;padding:16px 18px;}
+.enh-award .enh-medal{font-size:1.4rem;line-height:1;}
+.enh-award h4{margin:6px 0 2px;font-size:.98rem;}
+.enh-award p{margin:0;font-size:.84rem;color:var(--enh-muted);}
+
+/* ---------- Featured publications ---------- */
+.enh-pub{display:flex;gap:16px;padding:14px 0;border-bottom:1px solid var(--enh-line);}
+.enh-pub:last-child{border-bottom:none;}
+.enh-pub .enh-thumb{flex:none;width:110px;height:74px;border-radius:8px;background:linear-gradient(135deg,#dfe7eb,#c4d3da);display:flex;align-items:center;justify-content:center;color:#8ba1ab;font-size:.72rem;font-weight:600;overflow:hidden;}
+.enh-pub .enh-thumb img{width:100%;height:100%;object-fit:cover;}
+.enh-pub h4{margin:0 0 3px;font-size:.98rem;}
+.enh-pub .enh-venue{color:var(--enh-muted);font-size:.85rem;font-style:italic;}
+.enh-pub .enh-plinks{margin-top:6px;display:flex;flex-wrap:wrap;gap:8px;}
+.enh-pub .enh-plinks a{font-size:.76rem;font-weight:600;text-decoration:none;padding:2px 9px;border-radius:14px;background:rgba(31,78,95,.08);}
+
+@media (max-width:560px){
+  .enh-awards{grid-template-columns:1fr;}
+}
+
+/* =====================================================================
+   Theme variables (used by the particle background + content card)
+   ===================================================================== */
+:root{ --enh-page-bg:#ffffff; --enh-card:rgba(255,255,255,0.92); }
+:root[data-theme="dark"]{ --enh-page-bg:#0f1519; --enh-card:rgba(22,28,32,0.94); }
+
+/* =====================================================================
+   Fade-in on scroll  (#7)
+   ===================================================================== */
+.enh-reveal{opacity:0;transform:translateY(16px);transition:opacity .6s ease, transform .6s ease;}
+.enh-reveal.in{opacity:1;transform:none;}
+@media (prefers-reduced-motion: reduce){
+  .enh-reveal{opacity:1 !important;transform:none !important;transition:none;}
+}
+
+/* =====================================================================
+   Dark mode  (#9)  — activated by data-theme="dark" on <html>
+   ===================================================================== */
+/* body / content text */
+:root[data-theme="dark"] body,
+:root[data-theme="dark"] #main,
+:root[data-theme="dark"] .page__content,
+:root[data-theme="dark"] .page__content p,
+:root[data-theme="dark"] .page__content li,
+:root[data-theme="dark"] .archive__item-excerpt{ color:#d6dde2 !important; }
+/* headings */
+:root[data-theme="dark"] .page__content h1,
+:root[data-theme="dark"] .page__content h2,
+:root[data-theme="dark"] .page__content h3,
+:root[data-theme="dark"] .page__content h4,
+:root[data-theme="dark"] .page__title,
+:root[data-theme="dark"] h1, :root[data-theme="dark"] h2,
+:root[data-theme="dark"] h3, :root[data-theme="dark"] h4{ color:#eef3f6 !important; }
+/* links */
+:root[data-theme="dark"] a{ color:#7fc4d8 !important; }
+/* masthead / navigation */
+:root[data-theme="dark"] .greedy-nav,
+:root[data-theme="dark"] .masthead{ background:transparent !important; }
+:root[data-theme="dark"] .greedy-nav a,
+:root[data-theme="dark"] .site-title,
+:root[data-theme="dark"] .greedy-nav button,
+:root[data-theme="dark"] .masthead__menu a{ color:#e6ecef !important; }
+/* author sidebar */
+:root[data-theme="dark"] .author__name,
+:root[data-theme="dark"] .author__bio,
+:root[data-theme="dark"] .sidebar p,
+:root[data-theme="dark"] .author__urls a,
+:root[data-theme="dark"] .author__urls li{ color:#d6dde2 !important; }
+:root[data-theme="dark"] .author__urls a .svg-inline--fa,
+:root[data-theme="dark"] .author__urls a .icon{ color:#7fc4d8 !important; }
+/* footer */
+:root[data-theme="dark"] .page__footer{ color:#c4ccd1 !important; }
+:root[data-theme="dark"] .page__footer a,
+:root[data-theme="dark"] .page__footer-copyright{ color:#c4ccd1 !important; }
+/* tables / quotes / rules / code */
+:root[data-theme="dark"] .page__content table{ color:#d6dde2; }
+:root[data-theme="dark"] .page__content th{ background:#1a2227 !important; border-color:#2a343a !important; }
+:root[data-theme="dark"] .page__content td{ border-color:#2a343a !important; }
+:root[data-theme="dark"] .page__content tr:nth-child(2n){ background:#161d22 !important; }
+:root[data-theme="dark"] .page__content blockquote{ color:#c4ccd1 !important; border-left-color:#7fc4d8 !important; }
+:root[data-theme="dark"] hr{ border-color:#2a343a !important; }
+:root[data-theme="dark"] .page__content code{ background:#1a2227 !important; color:#e6ecef !important; }
+
+/* enhancement sections in dark mode */
+:root[data-theme="dark"] .enh-news li{ border-bottom-color:#2a343a; }
+:root[data-theme="dark"] .enh-news .enh-what{ color:#d6dde2; }
+:root[data-theme="dark"] .enh-badge,
+:root[data-theme="dark"] .enh-badge.alt{ background:rgba(127,196,216,.10); color:#a8d8e6; border-color:rgba(127,196,216,.28); }
+:root[data-theme="dark"] .enh-timeline::before{ background:#2a343a; }
+:root[data-theme="dark"] .enh-tl::before{ background:#0f1519; border-color:#7fc4d8; }
+:root[data-theme="dark"] .enh-tl.edu::before{ border-color:#52adc8; }
+:root[data-theme="dark"] .enh-tl h4{ color:#eef3f6; }
+:root[data-theme="dark"] .enh-tl .enh-org{ color:#9fd3e2; }
+:root[data-theme="dark"] .enh-tl .enh-meta,
+:root[data-theme="dark"] .enh-tl .enh-sub{ color:#9aa6ad; }
+:root[data-theme="dark"] .enh-award{ background:linear-gradient(135deg,rgba(127,196,216,.08),rgba(82,173,200,.05)); border-color:#2a343a; }
+:root[data-theme="dark"] .enh-award h4{ color:#eef3f6; }
+:root[data-theme="dark"] .enh-award p{ color:#9aa6ad; }
+:root[data-theme="dark"] .enh-pub{ border-bottom-color:#2a343a; }
+:root[data-theme="dark"] .enh-pub h4{ color:#eef3f6; }
+:root[data-theme="dark"] .enh-pub .enh-venue{ color:#9aa6ad; }
+:root[data-theme="dark"] .enh-pub .enh-plinks a{ background:rgba(127,196,216,.12); color:#a8d8e6; }
+
+/* =====================================================================
+   Education page — degree cards, course chips, callouts, MOOCs
+   ===================================================================== */
+.enh-edu{ background:#fff; border:1px solid var(--enh-line); border-left:4px solid var(--enh-navy); border-radius:10px; padding:18px 22px; margin:0 0 16px; }
+.enh-edu.edu-alt{ border-left-color:var(--enh-teal); }
+.enh-edu h3{ margin:0 0 2px; font-size:1.15rem; }
+.enh-edu .enh-inst{ color:var(--enh-navy); font-weight:600; }
+.enh-edu .enh-when{ color:var(--enh-muted); font-size:.85rem; margin:3px 0 0; }
+.enh-callout{ background:linear-gradient(135deg, rgba(31,78,95,.06), rgba(82,173,200,.06)); border-left:3px solid var(--enh-teal); border-radius:6px; padding:8px 13px; margin:10px 0; font-size:.9rem; }
+.enh-thesis{ background:rgba(31,78,95,.05); border-radius:8px; padding:10px 14px; margin:10px 0; font-size:.92rem; }
+.enh-thesis .enh-tlabel, .enh-clabel{ font-size:.72rem; text-transform:uppercase; letter-spacing:.05em; color:var(--enh-muted); font-weight:700; display:block; }
+.enh-thesis .enh-tlabel{ margin-bottom:3px; }
+.enh-clabel{ margin:12px 0 5px; }
+.enh-sem{ margin:14px 0 0; padding:14px 0 0; border-top:1px dashed var(--enh-line); }
+.enh-sem h4{ margin:0 0 1px; font-size:1rem; }
+.enh-mooc{ display:flex; flex-wrap:wrap; gap:12px; margin:.4em 0 1em; }
+.enh-mooc-item{ flex:1 1 250px; background:#fff; border:1px solid var(--enh-line); border-radius:10px; padding:14px 16px; }
+.enh-mooc-item h4{ margin:0 0 3px; font-size:.95rem; }
+.enh-mooc-item .enh-prov{ color:var(--enh-muted); font-size:.82rem; display:block; margin-bottom:6px; }
+.enh-mooc-item a{ font-size:.78rem; font-weight:600; }
+
+/* dark mode for education components */
+:root[data-theme="dark"] .enh-edu,
+:root[data-theme="dark"] .enh-mooc-item{ background:transparent; border-color:#2a343a; }
+:root[data-theme="dark"] .enh-edu h3{ color:#eef3f6; }
+:root[data-theme="dark"] .enh-edu .enh-inst{ color:#9fd3e2; }
+:root[data-theme="dark"] .enh-edu .enh-when{ color:#9aa6ad; }
+:root[data-theme="dark"] .enh-edu h4{ color:#eef3f6; }
+:root[data-theme="dark"] .enh-callout{ background:linear-gradient(135deg, rgba(127,196,216,.08), rgba(82,173,200,.05)); }
+:root[data-theme="dark"] .enh-thesis{ background:rgba(127,196,216,.06); }
+:root[data-theme="dark"] .enh-sem{ border-top-color:#2a343a; }
+
+/* Project cards (Research page) */
+.enh-proj{ background:#fff; border:1px solid var(--enh-line); border-left:4px solid var(--enh-teal); border-radius:10px; padding:18px 22px; margin:0 0 16px; }
+.enh-proj h3{ margin:0 0 6px; font-size:1.12rem; }
+.enh-proj p{ font-size:.92rem; }
+.enh-proj img{ max-width:min(100%, 460px); height:auto; border-radius:8px; margin:10px auto; display:block; }
+.enh-proj center{ display:block; }
+:root[data-theme="dark"] .enh-proj{ background:transparent; border-color:#2a343a; }
+:root[data-theme="dark"] .enh-proj h3{ color:#eef3f6; }
+:root[data-theme="dark"] .enh-proj p{ color:#d6dde2; }
+
+/* Compact course rows (Teaching page) */
+.enh-courses{ margin:.4em 0 1em; }
+.enh-course-row{ display:flex; flex-wrap:wrap; align-items:baseline; gap:6px 12px; padding:8px 2px; border-bottom:1px dashed var(--enh-line); }
+.enh-course-row:last-child{ border-bottom:none; }
+.enh-course-row .enh-cnum{ flex:none; font-size:.72rem; font-weight:700; color:var(--enh-navy); background:rgba(31,78,95,.08); border:1px solid rgba(31,78,95,.15); border-radius:6px; padding:2px 8px; min-width:64px; text-align:center; }
+.enh-course-row .enh-cname{ font-weight:600; }
+.enh-course-row .enh-cterms{ color:var(--enh-muted); font-size:.85rem; margin-left:auto; }
+:root[data-theme="dark"] .enh-course-row{ border-bottom-color:#2a343a; }
+:root[data-theme="dark"] .enh-course-row .enh-cnum{ background:rgba(127,196,216,.10); color:#a8d8e6; border-color:rgba(127,196,216,.28); }
+:root[data-theme="dark"] .enh-course-row .enh-cname{ color:#e6ecef; }
+:root[data-theme="dark"] .enh-course-row .enh-cterms{ color:#9aa6ad; }
+@media (max-width:560px){ .enh-course-row .enh-cterms{ margin-left:0; flex-basis:100%; } }

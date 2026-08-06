@@ -2,6 +2,18 @@
 
 <!-- start custom head snippets -->
 
+<!-- Apply saved light/dark theme before paint to avoid a flash -->
+<script>
+  (function(){
+    try {
+      var t = localStorage.getItem('theme');
+      document.documentElement.setAttribute('data-theme', t === 'dark' ? 'dark' : 'light');
+    } catch(e) {
+      document.documentElement.setAttribute('data-theme', 'light');
+    }
+  })();
+</script>
+
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
@@ -23,6 +35,21 @@
 <meta name="msapplication-config" content="{{ base_path }}/images/browserconfig.xml?v=M44lzPylqQ">
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+
+<!-- Inter web font -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
+<!-- Social share preview image (Open Graph / Twitter) -->
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/profile.png">
+<meta property="og:image:alt" content="Kazi Ahmed Asif Fuad">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/images/profile.png">
+
+<!-- Custom enhancement sections (news, badges, timeline, awards, featured pubs) -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/enhancements.css">
+<script defer src="{{ base_path }}/assets/js/enhancements.js"></script>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
