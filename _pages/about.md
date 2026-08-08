@@ -17,6 +17,7 @@ The route here was a winding one. I did a triple degree Erasmus+ Mundus master's
 
 <!-- EDIT NEWS: copy a <li> line, change the date and text. Newest goes on top. -->
 <ul class="enh-news enh-reveal">
+  <li><span class="enh-date">Aug 2026</span><span class="enh-what">Two new preprints on arXiv: <a href="https://arxiv.org/abs/2608.01490">BiKAN</a> and <a href="https://arxiv.org/abs/2608.00859">SparseKAN</a>, on binarizing and compressing Kolmogorov–Arnold Networks.</span></li>
   <li><span class="enh-date">Jun 2026</span><span class="enh-what">Passed the PhD Preliminary Examination at Oregon State University.</span></li>
   <li><span class="enh-date">Nov 2025</span><span class="enh-what">New preprint on arXiv — <em>QuantKAN: A Unified Quantization Framework for Kolmogorov–Arnold Networks</em>.</span></li>
   <li><span class="enh-date">Nov 2024</span><span class="enh-what">New preprint on arXiv — <em>LLM-Ref: Enhancing Reference Handling in Technical Writing with Large Language Models</em>.</span></li>
