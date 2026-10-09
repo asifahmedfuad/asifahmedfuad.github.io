@@ -34,6 +34,7 @@ author_profile: true
 <!-- EDIT INTERESTS: add/remove a <span class="enh-badge">...</span> -->
 <div class="enh-badges enh-reveal">
   <span class="enh-badge">Large Language Models (LLMs)</span>
+  <span class="enh-badge">World Models</span>
   <span class="enh-badge">Natural Language Processing</span>
   <span class="enh-badge">Hardware Accelerators for AI</span>
   <span class="enh-badge">Efficient &amp; Quantized Deep Learning</span>
@@ -107,6 +108,10 @@ author_profile: true
 </div>
 
 <br />
+
+## Under Review
+
+  Three first-authored papers on **World Models**, co-authored with Professor Lizhong Chen, are currently under review at **ICLR 2027** *(titles omitted during double-blind review)*.
 
 # Publications
 
