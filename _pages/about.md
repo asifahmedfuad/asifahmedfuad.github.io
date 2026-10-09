@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Kazi Ahmed Asif Fuad (Asif, for short), a **PhD candidate** in Electrical Engineering and Computer Science at Oregon State University, supervised by Professor Lizhong Chen. My research lives in two places I enjoy about equally: building with large language models, and making deep learning run more efficiently in hardware. On the language side I've worked on systems for simultaneous translation and for technical writing; on the hardware side I study how AI models and the accelerators they run on can be made faster and leaner. I'm also an **Assistant Professor** of Electrical and Electronic Engineering at American International University-Bangladesh (AIUB), currently on study leave to finish the PhD.
+I'm Kazi Ahmed <u>Asif</u> Fuad, a **PhD candidate** in Electrical Engineering and Computer Science at Oregon State University, supervised by Professor Lizhong Chen. My research lives in two places I enjoy about equally: building with large language models, and making deep learning run more efficiently in hardware. On the language side I've worked on systems for simultaneous translation and for technical writing; on the hardware side I study how AI models and the accelerators they run on can be made faster and leaner. I'm also an **Assistant Professor** of Electrical and Electronic Engineering at American International University-Bangladesh (AIUB), currently on study leave to finish the PhD.
 
 The route here was a winding one. I did a triple degree Erasmus+ Mundus master's in Image Processing and Computer Vision across Bordeaux, Madrid, and Budapest, spent a summer at CERN getting graph neural networks to run on FPGAs, and completed my BSc and MSc in Electrical and Electronic Engineering back home in Dhaka, finishing my master's *Summa Cum Laude*. If there's a common thread, it's a stubborn curiosity about how AI systems work under the hood, and about building the pieces that make them run better.
 
@@ -17,7 +17,7 @@ The route here was a winding one. I did a triple degree Erasmus+ Mundus master's
 
 <!-- EDIT NEWS: copy a <li> line, change the date and text. Newest goes on top. -->
 <ul class="enh-news enh-reveal">
-  <li><span class="enh-date">Aug 2026</span><span class="enh-what">Two new preprints on arXiv: <a href="https://arxiv.org/abs/2608.01490">BiKAN</a> and <a href="https://arxiv.org/abs/2608.00859">SparseKAN</a>, on binarizing and compressing Kolmogorov–Arnold Networks.</span></li>
+  <li><span class="enh-date">Aug 2026</span><span class="enh-what">Three new preprints on arXiv: <a href="https://arxiv.org/abs/2608.01490">BiKAN</a>, <a href="https://arxiv.org/abs/2608.00859">SparseKAN</a>, and <a href="https://arxiv.org/abs/2609.26067">FuncCode</a>, on binarizing, compressing, and quantizing Kolmogorov–Arnold Networks.</span></li>
   <li><span class="enh-date">Jun 2026</span><span class="enh-what">Passed the PhD Preliminary Examination at Oregon State University.</span></li>
   <li><span class="enh-date">Nov 2025</span><span class="enh-what">New preprint on arXiv — <em>QuantKAN: A Unified Quantization Framework for Kolmogorov–Arnold Networks</em>.</span></li>
   <li><span class="enh-date">Nov 2024</span><span class="enh-what">New preprint on arXiv — <em>LLM-Ref: Enhancing Reference Handling in Technical Writing with Large Language Models</em>.</span></li>

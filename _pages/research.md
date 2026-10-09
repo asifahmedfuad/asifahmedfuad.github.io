@@ -112,37 +112,39 @@ author_profile: true
 
 # ---------------------------------------------------------------------------------------------------------
 
-  [1](https://arxiv.org/abs/2608.01490 "arXiv") **Kazi Ahmed Asif Fuad**, Lizhong Chen, “BiKAN: Restoring Collapsed Basis of Binary Kolmogorov–Arnold Networks”, arXiv preprint arXiv:2608.01490, 2026.
+  [1](https://arxiv.org/abs/2609.26067 "arXiv") **Kazi Ahmed Asif Fuad**, Lizhong Chen, “FuncCode: Compressing Kolmogorov–Arnold Networks in Function Space with Hardware-Aware Quantization”, arXiv preprint arXiv:2609.26067, 2026.
 
-  [2](https://arxiv.org/abs/2608.00859 "arXiv") **Kazi Ahmed Asif Fuad**, Lizhong Chen, “SparseKAN: Compressing Kolmogorov–Arnold Networks Across Basis Functions, Neurons, and Bits”, arXiv preprint arXiv:2608.00859, 2026.
+  [2](https://arxiv.org/abs/2608.01490 "arXiv") **Kazi Ahmed Asif Fuad**, Lizhong Chen, “BiKAN: Restoring Collapsed Basis of Binary Kolmogorov–Arnold Networks”, arXiv preprint arXiv:2608.01490, 2026.
 
-  [3](https://arxiv.org/abs/2511.18689 "arXiv") **Kazi Ahmed Asif Fuad**, Lizhong Chen, “QuantKAN: A Unified Quantization Framework for Kolmogorov–Arnold Networks”, arXiv preprint arXiv:2511.18689, 2025.
+  [3](https://arxiv.org/abs/2608.00859 "arXiv") **Kazi Ahmed Asif Fuad**, Lizhong Chen, “SparseKAN: Compressing Kolmogorov–Arnold Networks Across Basis Functions, Neurons, and Bits”, arXiv preprint arXiv:2608.00859, 2026.
 
-  [4](https://arxiv.org/abs/2411.00294 "arXiv") **Kazi Ahmed Asif Fuad**, Lizhong Chen, “LLM-Ref: Enhancing Reference Handling in Technical Writing with Large Language Models”, arXiv preprint arXiv:2411.00294, 2024.
+  [4](https://arxiv.org/abs/2511.18689 "arXiv") **Kazi Ahmed Asif Fuad**, Lizhong Chen, “QuantKAN: A Unified Quantization Framework for Kolmogorov–Arnold Networks”, arXiv preprint arXiv:2511.18689, 2025.
 
-  [5](https://aclanthology.org/2024.acl-long.567/ "ACL Anthology") Victor Agostinelli, Max Wild, Matthew Raffel, **Kazi Ahmed Asif Fuad**, Lizhong Chen, “Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models”, Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024), pp. 10530–10541, Bangkok, Thailand, 2024.
+  [5](https://arxiv.org/abs/2411.00294 "arXiv") **Kazi Ahmed Asif Fuad**, Lizhong Chen, “LLM-Ref: Enhancing Reference Handling in Technical Writing with Large Language Models”, arXiv preprint arXiv:2411.00294, 2024.
 
-  [6](https://www.mdpi.com/2079-9292/12/10/2299 "Electronics") **Kazi Ahmed Asif Fuad**, Lizhong Chen, “A Survey on Sparsity Exploration in Transformer-Based Accelerators”, Electronics, Vol. 12, No. 10, Art. 2299, 2023.
+  [6](https://aclanthology.org/2024.acl-long.567/ "ACL Anthology") Victor Agostinelli, Max Wild, Matthew Raffel, **Kazi Ahmed Asif Fuad**, Lizhong Chen, “Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models”, Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024), pp. 10530–10541, Bangkok, Thailand, 2024.
 
-  [7](https://link.springer.com/article/10.1007/s10489-022-03756-1 "Applied Intelligence") Shahriyar Masud Rizvi, Ab Al-Hadi Ab Rahman, Usman Ullah Sheikh, **Kazi Ahmed Asif Fuad**, Hafiz Muhammad Faisal Shehzad, “Computation and Memory Optimized Spectral Domain Convolutional Neural Network for Throughput and Energy-Efficient Inference”, Applied Intelligence, Vol. 53, No. 4, pp. 4499–4523, 2023.
+  [7](https://www.mdpi.com/2079-9292/12/10/2299 "Electronics") **Kazi Ahmed Asif Fuad**, Lizhong Chen, “A Survey on Sparsity Exploration in Transformer-Based Accelerators”, Electronics, Vol. 12, No. 10, Art. 2299, 2023.
 
-  [8](https://www.mdpi.com/2079-9292/11/17/2778 "Electronics") **Kazi Ahmed Asif Fuad**, K. Zeng, Lizhong Chen, “Edge-Based Heuristics for Optimizing Shortcut-Augmented Topologies for HPC Interconnects”, Electronics, Vol. 11, No. 17, Art. 2778, 2022.
+  [8](https://link.springer.com/article/10.1007/s10489-022-03756-1 "Applied Intelligence") Shahriyar Masud Rizvi, Ab Al-Hadi Ab Rahman, Usman Ullah Sheikh, **Kazi Ahmed Asif Fuad**, Hafiz Muhammad Faisal Shehzad, “Computation and Memory Optimized Spectral Domain Convolutional Neural Network for Throughput and Energy-Efficient Inference”, Applied Intelligence, Vol. 53, No. 4, pp. 4499–4523, 2023.
 
-  [9](https://github.com/asifahmedfuad/feature_understanding_method "github") **Kazi Ahmed Asif Fuad**, Pierre-Etienne Martin, Romain Giot, Romain Bourqui, Jenny Benois-Pineau, Akka Zemmari (2020) Features Understanding in 3D CNNs for Actions Recognition in Video. International Conference on Image Processing Theory, Tools and Applications (IPTA) 2020, Paris, France.
+  [9](https://www.mdpi.com/2079-9292/11/17/2778 "Electronics") **Kazi Ahmed Asif Fuad**, K. Zeng, Lizhong Chen, “Edge-Based Heuristics for Optimizing Shortcut-Augmented Topologies for HPC Interconnects”, Electronics, Vol. 11, No. 17, Art. 2778, 2022.
 
-  [10](https://link.springer.com/chapter/10.1007/978-3-030-01057-7_21 "watchit") Mahamud M.S., Islam M., Shila A.S., **Asif Fuad K.A.**, Islam M.R. (2018) Watch IT Version-II: An Assistive Device for Hearing and Speaking Impaired. In: Arai K., Kapoor S., Bhatia R. (eds) Intelligent Systems and Applications. IntelliSys 2018. Advances in Intelligent Systems and Computing, vol 869. Springer, Cham.
+  [10](https://github.com/asifahmedfuad/feature_understanding_method "github") **Kazi Ahmed Asif Fuad**, Pierre-Etienne Martin, Romain Giot, Romain Bourqui, Jenny Benois-Pineau, Akka Zemmari (2020) Features Understanding in 3D CNNs for Actions Recognition in Video. International Conference on Image Processing Theory, Tools and Applications (IPTA) 2020, Paris, France.
 
-  [11](https://ieeexplore.ieee.org/document/7913024 "anticollision") Tasneem Sanjana, **Kazi Ahmed Asif Fuad**, Mehrab Masayeed Habib, Ahmed Amin Rumel, “Automated anti-collision system for automobiles”, 2017 International Conference on Electrical, Computer and Communication Engineering (ECCE), Cox's Bazar, 2017, pp. 866-870.
+  [11](https://link.springer.com/chapter/10.1007/978-3-030-01057-7_21 "watchit") Mahamud M.S., Islam M., Shila A.S., **Asif Fuad K.A.**, Islam M.R. (2018) Watch IT Version-II: An Assistive Device for Hearing and Speaking Impaired. In: Arai K., Kapoor S., Bhatia R. (eds) Intelligent Systems and Applications. IntelliSys 2018. Advances in Intelligent Systems and Computing, vol 869. Springer, Cham.
 
-  [12](https://ieeexplore.ieee.org/document/7443999 "CLCAPSN") **Kazi Ahmed Asif Fuad**, Md. Maruf Ibne Hasan, Laila Nawsheen Manzoor, Mohammad Abdul Mannan, Chowdhury Akram Hossain, “Design and simulation of centralized load controlled automated power system network (CLCAPSN)”, 2015 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE), Dhaka, 2015, pp. 61-64.
+  [12](https://ieeexplore.ieee.org/document/7913024 "anticollision") Tasneem Sanjana, **Kazi Ahmed Asif Fuad**, Mehrab Masayeed Habib, Ahmed Amin Rumel, “Automated anti-collision system for automobiles”, 2017 International Conference on Electrical, Computer and Communication Engineering (ECCE), Cox's Bazar, 2017, pp. 866-870.
 
-  [13](http://computers.stmjournals.com/index.php?journal=JoIPPRP&page=article&op=view&path%5B%5D=503) **Kazi Ahmed Asif Fuad**, Shahriyar Masud Rizvi, “Hardware/Software Co-Simulation of Gradient-based Edge Detectors: A Comparative Study”, STM Journal of Image Processing and Pattern Recognition Progress (JoIPPRP), Vol. 2, No. 3, September 2015 (ISSN: 2394-1995).
+  [13](https://ieeexplore.ieee.org/document/7443999 "CLCAPSN") **Kazi Ahmed Asif Fuad**, Md. Maruf Ibne Hasan, Laila Nawsheen Manzoor, Mohammad Abdul Mannan, Chowdhury Akram Hossain, “Design and simulation of centralized load controlled automated power system network (CLCAPSN)”, 2015 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE), Dhaka, 2015, pp. 61-64.
 
-  [14](https://orp.aiub.edu/ajse-vol-14-no-1-august-2015 "AJSE") **Kazi Ahmed Asif Fuad**, Shahriyar Masud Rizvi, “Varying Sample-Width to Realize Area-Efficient FPGA Realization of Sobel-Fieldman Edge Detector”, AIUB Journal of Science and Engineering (AJSE) Vol. 14, No. 1, August 2015 (ISSN: 1608-3679).
+  [14](http://computers.stmjournals.com/index.php?journal=JoIPPRP&page=article&op=view&path%5B%5D=503) **Kazi Ahmed Asif Fuad**, Shahriyar Masud Rizvi, “Hardware/Software Co-Simulation of Gradient-based Edge Detectors: A Comparative Study”, STM Journal of Image Processing and Pattern Recognition Progress (JoIPPRP), Vol. 2, No. 3, September 2015 (ISSN: 2394-1995).
 
-  [15](https://www.ijcaonline.org/archives/volume122/number19/21806-5124 "IJCA") **Kazi Ahmed Asif Fuad**, Shahriyar Masud Rizvi, “Hardware Software Co-Simulation of Canny Edge Detection Algorithm”, International Journal of Computer Applications 122(19): 7-12, July 2015.
+  [15](https://orp.aiub.edu/ajse-vol-14-no-1-august-2015 "AJSE") **Kazi Ahmed Asif Fuad**, Shahriyar Masud Rizvi, “Varying Sample-Width to Realize Area-Efficient FPGA Realization of Sobel-Fieldman Edge Detector”, AIUB Journal of Science and Engineering (AJSE) Vol. 14, No. 1, August 2015 (ISSN: 1608-3679).
 
-  [16] Md. Maruf Ibne Hasan, **Kazi Ahmed Asif Fuad**, Nipu Rani Barai, Maroof Muhammad Hasan, Shahriyar Masud Rizvi, “FPGA and Microcontroller based Data Acquisition System using Two Wire Serial Communication”, Journal of Embedded System and Applications, Vol. 2, No. 3, July 2014.
+  [16](https://www.ijcaonline.org/archives/volume122/number19/21806-5124 "IJCA") **Kazi Ahmed Asif Fuad**, Shahriyar Masud Rizvi, “Hardware Software Co-Simulation of Canny Edge Detection Algorithm”, International Journal of Computer Applications 122(19): 7-12, July 2015.
+
+  [17] Md. Maruf Ibne Hasan, **Kazi Ahmed Asif Fuad**, Nipu Rani Barai, Maroof Muhammad Hasan, Shahriyar Masud Rizvi, “FPGA and Microcontroller based Data Acquisition System using Two Wire Serial Communication”, Journal of Embedded System and Applications, Vol. 2, No. 3, July 2014.
 
 
 ## Key Research Projects
