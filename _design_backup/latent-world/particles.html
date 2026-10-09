@@ -1,0 +1,76 @@
+<canvas id="bg-canvas" aria-hidden="true"></canvas>
+
+<button id="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark / light mode">🌙</button>
+
+<style>
+  html, body { background: transparent !important; }
+  .page, .page__content, #main, .archive,
+  .sidebar, .sidebar__right, .author__avatar,
+  .masthead, .page__footer,
+  .page-inner-wrap, article.page {
+    background: transparent !important;
+    background-color: transparent !important;
+  }
+
+  /* full-screen animated background ("Latent World & Token Flow", see assets/js/worldbg.js) */
+  #bg-canvas {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    z-index: -1;
+    display: block;
+    background: var(--enh-page-bg, #ffffff);
+    transition: background .3s ease;
+  }
+
+  /* content card over the animation */
+  #main {
+    background: var(--enh-card, rgba(255, 255, 255, 0.92)) !important;
+    border-radius: 6px;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.06);
+    padding: 2em;
+    position: relative;
+    z-index: 1;
+    transition: background .3s ease;
+  }
+
+  /* dark / light toggle button */
+  #theme-toggle {
+    position: fixed;
+    right: 18px; bottom: 18px;
+    z-index: 1000;
+    width: 44px; height: 44px;
+    border: none; border-radius: 50%;
+    cursor: pointer;
+    background: #1f4e5f; color: #fff;
+    font-size: 1.2rem; line-height: 1;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, .25);
+  }
+  #theme-toggle:hover { filter: brightness(1.12); }
+</style>
+
+<script>
+(function () {
+  /* Theme toggle. Keep comments in this inline script as block comments:
+     the compress layout joins lines, which would break line comments. */
+  function currentTheme() {
+    return document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+  }
+  function updateToggleIcon() {
+    var b = document.getElementById('theme-toggle');
+    if (b) b.textContent = currentTheme() === 'dark' ? '☀️' : '🌙';
+  }
+  window.toggleTheme = function () {
+    var next = currentTheme() === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    try { localStorage.setItem('theme', next); } catch (e) {}
+    updateToggleIcon();
+  };
+  document.addEventListener('DOMContentLoaded', function () {
+    var b = document.getElementById('theme-toggle');
+    if (b) b.addEventListener('click', window.toggleTheme);
+    updateToggleIcon();
+  });
+})();
+</script>
+<script src="{{ base_path }}/assets/js/worldbg.js" defer></script>
